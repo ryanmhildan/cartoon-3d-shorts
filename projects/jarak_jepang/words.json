@@ -1,0 +1,747 @@
+[
+ {
+  "word": "Tahun",
+  "start": 0.0,
+  "end": 0.313
+ },
+ {
+  "word": "seribu",
+  "start": 0.372,
+  "end": 0.662
+ },
+ {
+  "word": "sembilan",
+  "start": 0.708,
+  "end": 1.045
+ },
+ {
+  "word": "ratus",
+  "start": 1.091,
+  "end": 1.324
+ },
+ {
+  "word": "empat",
+  "start": 1.382,
+  "end": 1.591
+ },
+ {
+  "word": "puluh",
+  "start": 1.625,
+  "end": 1.834
+ },
+ {
+  "word": "tiga",
+  "start": 1.858,
+  "end": 2.287
+ },
+ {
+  "word": "petani",
+  "start": 2.45,
+  "end": 2.74
+ },
+ {
+  "word": "Jawa",
+  "start": 2.798,
+  "end": 3.03
+ },
+ {
+  "word": "dipaksa",
+  "start": 3.077,
+  "end": 3.483
+ },
+ {
+  "word": "menanam",
+  "start": 3.541,
+  "end": 3.889
+ },
+ {
+  "word": "tanaman",
+  "start": 3.936,
+  "end": 4.272
+ },
+ {
+  "word": "yang",
+  "start": 4.331,
+  "end": 4.47
+ },
+ {
+  "word": "bijinya",
+  "start": 4.54,
+  "end": 4.923
+ },
+ {
+  "word": "beracun",
+  "start": 4.969,
+  "end": 5.492
+ },
+ {
+  "word": "Namanya",
+  "start": 5.84,
+  "end": 6.293
+ },
+ {
+  "word": "pohon",
+  "start": 6.478,
+  "end": 6.734
+ },
+ {
+  "word": "jarak",
+  "start": 6.792,
+  "end": 7.152
+ },
+ {
+  "word": "Pak",
+  "start": 7.5,
+  "end": 7.697
+ },
+ {
+  "word": "Karto",
+  "start": 7.721,
+  "end": 8.29
+ },
+ {
+  "word": "petani",
+  "start": 8.429,
+  "end": 8.94
+ },
+ {
+  "word": "di",
+  "start": 9.079,
+  "end": 9.183
+ },
+ {
+  "word": "pinggir",
+  "start": 9.23,
+  "end": 9.497
+ },
+ {
+  "word": "Bojonegoro",
+  "start": 9.555,
+  "end": 10.286
+ },
+ {
+  "word": "cuma",
+  "start": 10.449,
+  "end": 10.704
+ },
+ {
+  "word": "bisa",
+  "start": 10.751,
+  "end": 10.937
+ },
+ {
+  "word": "bengong",
+  "start": 10.983,
+  "end": 11.424
+ },
+ {
+  "word": "Buahnya",
+  "start": 11.645,
+  "end": 12.121
+ },
+ {
+  "word": "nggak",
+  "start": 12.237,
+  "end": 12.481
+ },
+ {
+  "word": "bisa",
+  "start": 12.516,
+  "end": 12.69
+ },
+ {
+  "word": "dimakan",
+  "start": 12.725,
+  "end": 13.305
+ },
+ {
+  "word": "Daunnya",
+  "start": 13.491,
+  "end": 13.874
+ },
+ {
+  "word": "juga",
+  "start": 13.932,
+  "end": 14.199
+ },
+ {
+  "word": "nggak",
+  "start": 14.269,
+  "end": 14.501
+ },
+ {
+  "word": "bisa",
+  "start": 14.536,
+  "end": 14.722
+ },
+ {
+  "word": "dijual",
+  "start": 14.768,
+  "end": 15.279
+ },
+ {
+  "word": "Tapi",
+  "start": 15.465,
+  "end": 15.836
+ },
+ {
+  "word": "tentara",
+  "start": 16.022,
+  "end": 16.382
+ },
+ {
+  "word": "Jepang",
+  "start": 16.428,
+  "end": 16.707
+ },
+ {
+  "word": "mau",
+  "start": 16.765,
+  "end": 16.962
+ },
+ {
+  "word": "jarak",
+  "start": 17.044,
+  "end": 17.322
+ },
+ {
+  "word": "ditanam",
+  "start": 17.392,
+  "end": 17.74
+ },
+ {
+  "word": "di",
+  "start": 17.787,
+  "end": 17.845
+ },
+ {
+  "word": "mana-mana",
+  "start": 17.891,
+  "end": 18.367
+ },
+ {
+  "word": "Di",
+  "start": 18.658,
+  "end": 18.75
+ },
+ {
+  "word": "halaman",
+  "start": 18.808,
+  "end": 19.099
+ },
+ {
+  "word": "rumah",
+  "start": 19.145,
+  "end": 19.505
+ },
+ {
+  "word": "Di",
+  "start": 19.853,
+  "end": 19.969
+ },
+ {
+  "word": "pinggir",
+  "start": 20.016,
+  "end": 20.283
+ },
+ {
+  "word": "jalan",
+  "start": 20.341,
+  "end": 20.782
+ },
+ {
+  "word": "Di",
+  "start": 21.003,
+  "end": 21.119
+ },
+ {
+  "word": "pematang",
+  "start": 21.177,
+  "end": 21.525
+ },
+ {
+  "word": "sawah",
+  "start": 21.56,
+  "end": 21.978
+ },
+ {
+  "word": "Bahkan",
+  "start": 22.233,
+  "end": 22.675
+ },
+ {
+  "word": "di",
+  "start": 22.86,
+  "end": 22.976
+ },
+ {
+  "word": "sebagian",
+  "start": 23.034,
+  "end": 23.406
+ },
+ {
+  "word": "sawah",
+  "start": 23.464,
+  "end": 23.754
+ },
+ {
+  "word": "tempat",
+  "start": 23.824,
+  "end": 24.079
+ },
+ {
+  "word": "padinya",
+  "start": 24.126,
+  "end": 24.404
+ },
+ {
+  "word": "tumbuh",
+  "start": 24.451,
+  "end": 24.88
+ },
+ {
+  "word": "Tetangganya",
+  "start": 25.229,
+  "end": 25.693
+ },
+ {
+  "word": "berbisik",
+  "start": 25.74,
+  "end": 26.332
+ },
+ {
+  "word": "Buat",
+  "start": 26.471,
+  "end": 26.831
+ },
+ {
+  "word": "apa",
+  "start": 26.889,
+  "end": 27.098
+ },
+ {
+  "word": "sih",
+  "start": 27.121,
+  "end": 27.458
+ },
+ {
+  "word": "Mau",
+  "start": 27.62,
+  "end": 27.783
+ },
+ {
+  "word": "dibikin",
+  "start": 27.818,
+  "end": 28.108
+ },
+ {
+  "word": "jamu",
+  "start": 28.154,
+  "end": 28.329
+ },
+ {
+  "word": "sekampung",
+  "start": 28.364,
+  "end": 29.142
+ },
+ {
+  "word": "Bijinya",
+  "start": 29.397,
+  "end": 29.757
+ },
+ {
+  "word": "harus",
+  "start": 29.803,
+  "end": 29.966
+ },
+ {
+  "word": "disetor",
+  "start": 30.001,
+  "end": 30.338
+ },
+ {
+  "word": "semua",
+  "start": 30.384,
+  "end": 30.872
+ },
+ {
+  "word": "Di",
+  "start": 31.162,
+  "end": 31.255
+ },
+ {
+  "word": "beberapa",
+  "start": 31.301,
+  "end": 31.684
+ },
+ {
+  "word": "daerah",
+  "start": 31.731,
+  "end": 32.253
+ },
+ {
+  "word": "imbalannya",
+  "start": 32.392,
+  "end": 32.892
+ },
+ {
+  "word": "cuma",
+  "start": 32.95,
+  "end": 33.159
+ },
+ {
+  "word": "minyak",
+  "start": 33.217,
+  "end": 33.449
+ },
+ {
+  "word": "tanah",
+  "start": 33.484,
+  "end": 33.925
+ },
+ {
+  "word": "Lalu",
+  "start": 34.215,
+  "end": 34.436
+ },
+ {
+  "word": "ke",
+  "start": 34.482,
+  "end": 34.552
+ },
+ {
+  "word": "mana",
+  "start": 34.598,
+  "end": 34.923
+ },
+ {
+  "word": "karung-karung",
+  "start": 35.086,
+  "end": 35.701
+ },
+ {
+  "word": "biji",
+  "start": 35.771,
+  "end": 35.968
+ },
+ {
+  "word": "jarak",
+  "start": 36.026,
+  "end": 36.224
+ },
+ {
+  "word": "itu",
+  "start": 36.282,
+  "end": 36.433
+ },
+ {
+  "word": "dibawa",
+  "start": 36.479,
+  "end": 37.048
+ },
+ {
+  "word": "Ternyata",
+  "start": 37.454,
+  "end": 38.209
+ },
+ {
+  "word": "biji",
+  "start": 38.372,
+  "end": 38.592
+ },
+ {
+  "word": "jarak",
+  "start": 38.662,
+  "end": 38.917
+ },
+ {
+  "word": "menyimpan",
+  "start": 38.975,
+  "end": 39.347
+ },
+ {
+  "word": "minyak",
+  "start": 39.405,
+  "end": 39.684
+ },
+ {
+  "word": "yang",
+  "start": 39.742,
+  "end": 39.858
+ },
+ {
+  "word": "istimewa",
+  "start": 39.916,
+  "end": 40.554
+ },
+ {
+  "word": "Mesin",
+  "start": 40.775,
+  "end": 41.019
+ },
+ {
+  "word": "pesawat",
+  "start": 41.077,
+  "end": 41.471
+ },
+ {
+  "word": "dan",
+  "start": 41.506,
+  "end": 41.611
+ },
+ {
+  "word": "kapal",
+  "start": 41.669,
+  "end": 41.936
+ },
+ {
+  "word": "perang",
+  "start": 41.994,
+  "end": 42.191
+ },
+ {
+  "word": "panasnya",
+  "start": 42.238,
+  "end": 42.748
+ },
+ {
+  "word": "luar",
+  "start": 42.911,
+  "end": 43.12
+ },
+ {
+  "word": "biasa",
+  "start": 43.178,
+  "end": 43.677
+ },
+ {
+  "word": "Pernah",
+  "start": 43.898,
+  "end": 44.188
+ },
+ {
+  "word": "lihat",
+  "start": 44.235,
+  "end": 44.467
+ },
+ {
+  "word": "mentega",
+  "start": 44.536,
+  "end": 44.92
+ },
+ {
+  "word": "di",
+  "start": 44.966,
+  "end": 45.024
+ },
+ {
+  "word": "wajan",
+  "start": 45.07,
+  "end": 45.291
+ },
+ {
+  "word": "panas",
+  "start": 45.349,
+  "end": 45.837
+ },
+ {
+  "word": "Langsung",
+  "start": 46.243,
+  "end": 46.649
+ },
+ {
+  "word": "cair",
+  "start": 46.696,
+  "end": 47.207
+ },
+ {
+  "word": "lalu",
+  "start": 47.392,
+  "end": 47.578
+ },
+ {
+  "word": "gosong",
+  "start": 47.636,
+  "end": 48.194
+ },
+ {
+  "word": "Minyak",
+  "start": 48.542,
+  "end": 48.89
+ },
+ {
+  "word": "biasa",
+  "start": 48.948,
+  "end": 49.227
+ },
+ {
+  "word": "juga",
+  "start": 49.273,
+  "end": 49.459
+ },
+ {
+  "word": "begitu",
+  "start": 49.517,
+  "end": 49.889
+ },
+ {
+  "word": "di",
+  "start": 49.935,
+  "end": 49.993
+ },
+ {
+  "word": "dalam",
+  "start": 50.04,
+  "end": 50.249
+ },
+ {
+  "word": "mesin",
+  "start": 50.272,
+  "end": 50.736
+ },
+ {
+  "word": "Minyak",
+  "start": 50.992,
+  "end": 51.351
+ },
+ {
+  "word": "jarak",
+  "start": 51.421,
+  "end": 51.677
+ },
+ {
+  "word": "beda",
+  "start": 51.735,
+  "end": 52.222
+ },
+ {
+  "word": "tetap",
+  "start": 52.512,
+  "end": 52.791
+ },
+ {
+  "word": "kental",
+  "start": 52.849,
+  "end": 53.163
+ },
+ {
+  "word": "dan",
+  "start": 53.209,
+  "end": 53.314
+ },
+ {
+  "word": "licin",
+  "start": 53.348,
+  "end": 53.604
+ },
+ {
+  "word": "waktu",
+  "start": 53.673,
+  "end": 53.941
+ },
+ {
+  "word": "mesin",
+  "start": 53.999,
+  "end": 54.219
+ },
+ {
+  "word": "panas",
+  "start": 54.266,
+  "end": 54.765
+ },
+ {
+  "word": "Jadi",
+  "start": 55.02,
+  "end": 55.415
+ },
+ {
+  "word": "minyak",
+  "start": 55.578,
+  "end": 55.903
+ },
+ {
+  "word": "jarak",
+  "start": 55.972,
+  "end": 56.216
+ },
+ {
+  "word": "dipakai",
+  "start": 56.274,
+  "end": 56.704
+ },
+ {
+  "word": "untuk",
+  "start": 56.808,
+  "end": 57.075
+ },
+ {
+  "word": "melumasi",
+  "start": 57.133,
+  "end": 57.574
+ },
+ {
+  "word": "mesin",
+  "start": 57.632,
+  "end": 57.934
+ },
+ {
+  "word": "dan",
+  "start": 58.225,
+  "end": 58.457
+ },
+ {
+  "word": "senjata",
+  "start": 58.596,
+  "end": 58.979
+ },
+ {
+  "word": "perang",
+  "start": 59.037,
+  "end": 59.432
+ },
+ {
+  "word": "Rakyat",
+  "start": 59.653,
+  "end": 59.92
+ },
+ {
+  "word": "Jawa",
+  "start": 59.978,
+  "end": 60.245
+ },
+ {
+  "word": "kekurangan",
+  "start": 60.291,
+  "end": 60.756
+ },
+ {
+  "word": "beras",
+  "start": 60.814,
+  "end": 61.243
+ },
+ {
+  "word": "supaya",
+  "start": 61.533,
+  "end": 61.882
+ },
+ {
+  "word": "mesin",
+  "start": 61.928,
+  "end": 62.16
+ },
+ {
+  "word": "pesawat",
+  "start": 62.207,
+  "end": 62.602
+ },
+ {
+  "word": "nggak",
+  "start": 62.66,
+  "end": 62.834
+ },
+ {
+  "word": "kepanasan",
+  "start": 62.869,
+  "end": 63.67
+ }
+]

@@ -1,0 +1,23 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "curious mysterious cartoon music, plucky pizzicato strings, soft timpani rolls, light marimba, ticking suspense, building to a warm reveal, 100 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "deep distant cannon boom rumbling across the sea", "at_word": "dentuman", "dur": 1.8, "gain_db": -8, "offset": -0.05},
+    {"text": "tropical night ocean waves and crickets", "at_word": "Rodrigues", "dur": 2.5, "gain_db": -14},
+    {"text": "deep distant cannon boom rumbling across the sea", "at_word": "dentuman", "nth": 2, "dur": 1.8, "gain_db": -9},
+    {"text": "deep distant cannon boom rumbling across the sea", "at_word": "dentuman", "nth": 3, "dur": 1.8, "gain_db": -9},
+    {"text": "deep distant cannon boom rumbling across the sea", "at_word": "lagi", "nth": 2, "dur": 1.8, "gain_db": -9},
+    {"text": "dip pen scratching writing on paper", "at_word": "mencatatnya", "dur": 1.5, "gain_db": -11},
+    {"text": "brass spyglass telescope extending click", "at_word": "sekitar", "dur": 0.8, "gain_db": -12},
+    {"text": "cartoon question mark boing", "at_word": "menembak", "dur": 0.7, "gain_db": -11},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "huge volcanic eruption deep rumble far away", "at_word": "Krakatau", "dur": 2.5, "gain_db": -9},
+    {"text": "cartoon whoosh across a map", "at_word": "Jaraknya", "dur": 0.8, "gain_db": -12},
+    {"text": "small firecracker pop", "at_word": "petasan", "dur": 0.6, "gain_db": -10},
+    {"text": "ticking clock fast forward", "at_word": "empat", "dur": 1.5, "gain_db": -12},
+    {"text": "pebble plopping into a calm pond", "at_word": "batu", "dur": 1.2, "gain_db": -9},
+    {"text": "airy whoosh ripple of wind expanding", "at_word": "udara", "dur": 1.5, "gain_db": -12},
+    {"text": "low rumbling boom wave sweeping around the globe", "at_word": "mengelilingi", "dur": 2.0, "gain_db": -11},
+    {"local": "chime", "at_word": "salah", "nth": 2, "gain_db": -12}
+  ]
+}

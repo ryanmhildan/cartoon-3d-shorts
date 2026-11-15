@@ -1,0 +1,16 @@
+# Topik yang sudah dibuat (slug | judul). /generate-naskah melewati topik ini.
+subak_wereng | Kenapa Petani Bali Menuruti Jadwal Pura
+krakatau_suara | Suara Paling Keras dalam Sejarah Manusia
+smong_simeulue | Pulau yang Selamat Berkat Cerita Nenek
+raja_es | Orang yang Jualan Es ke Negeri Tropis
+pasir_hisap | Pasir Hisap Nggak Bisa Menenggelamkanmu
+vaksin_sapi | Dokter yang Menulari Anak dengan Penyakit Sapi
+kaleng_pahat | Kaleng yang Lahir Tanpa Pembuka Kaleng
+bajau_limpa | Orang Indonesia yang Hidup di Dasar Laut
+kendi_keringat | Kendi Bocor yang Bikin Air Tetap Sejuk
+harga_sembilan | Seratus Rupiah yang Merebut Satu Pasar
+kapal_vasa | Kapal Perang yang Kalah oleh Angin
+wortel_radar | Pilot yang Katanya Melihat dalam Gelap
+kapal_zebra | Kapal Perang yang Dicat Kayak Zebra
+jarak_jepang | Kenapa Jepang Menyuruh Rakyat Jawa Tanam Jarak
+masker_kencing | Masker Gas Pertama Terbuat dari Air Kencing

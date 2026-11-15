@@ -1,0 +1,21 @@
+{
+  "tail": 0.8,
+  "music": {"prompt": "curious old-English countryside cartoon music, pizzicato strings, harpsichord, light flute, playful mystery building to a warm reveal, 100 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "cartoon whoosh", "at": 0.0, "dur": 0.6, "gain_db": -11},
+    {"text": "cow mooing in a farm field", "at_word": "sapi", "dur": 1.5, "gain_db": -11},
+    {"text": "countryside village ambience birds and distant church bell", "at_word": "Inggris", "dur": 2.5, "gain_db": -14},
+    {"text": "milk squirting into a metal bucket", "at_word": "pemerah", "dur": 1.2, "gain_db": -12},
+    {"text": "village women gossiping whispers", "at_word": "Katanya", "dur": 1.5, "gain_db": -14},
+    {"text": "small glass vial clink", "at_word": "cairan", "dur": 0.6, "gain_db": -12},
+    {"text": "tiny cartoon scratch", "at_word": "menggoreskannya", "dur": 0.5, "gain_db": -12},
+    {"text": "dramatic suspense sting", "at_word": "nekat", "dur": 1.2, "gain_db": -12},
+    {"local": "chime", "at_word": "sakit", "gain_db": -12},
+    {"text": "crowd of townspeople laughing and jeering", "at_word": "mengejek", "dur": 1.6, "gain_db": -12},
+    {"text": "funny cow moo cartoon", "at_word": "kepala", "dur": 1.0, "gain_db": -11},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "fire alarm bell ringing briefly", "at_word": "kebakaran", "dur": 1.0, "gain_db": -13},
+    {"text": "water splash from bucket onto fire hiss", "at_word": "api", "dur": 1.0, "gain_db": -12},
+    {"text": "happy cow moo and magical sparkle", "at_word": "vaksin", "dur": 1.2, "gain_db": -11}
+  ]
+}

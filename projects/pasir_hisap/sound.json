@@ -1,0 +1,23 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "playful suspenseful cartoon music, plucky pizzicato strings, bassoon, soft marimba, comedic tension, 104 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "cartoon whoosh", "at": 0.0, "dur": 0.6, "gain_db": -11},
+    {"text": "thick mud squelch", "at_word": "terjebak", "dur": 1.0, "gain_db": -10},
+    {"text": "river estuary ambience with birds and gentle water", "at_word": "muara", "dur": 2.5, "gain_db": -14},
+    {"text": "foot sinking into wet mud with a deep squelch", "at_word": "amblas", "dur": 1.2, "gain_db": -9},
+    {"text": "old dramatic movie organ sting", "at_word": "film", "dur": 1.5, "gain_db": -12},
+    {"text": "slow sinking bubbling mud blub", "at_word": "hilang", "dur": 1.5, "gain_db": -11},
+    {"text": "boy shouting in alarm", "at_word": "teriak", "dur": 0.8, "gain_db": -13},
+    {"text": "cartoon straining grunt effort with stretching sound", "at_word": "tarik", "dur": 1.5, "gain_db": -12},
+    {"text": "mud squelch sinking", "at_word": "amblas", "nth": 2, "dur": 1.0, "gain_db": -11},
+    {"text": "cartoon sudden stop thud", "at_word": "berhenti", "dur": 0.5, "gain_db": -11},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "plastic ball bobbing in pool water", "at_word": "bola", "dur": 1.0, "gain_db": -12},
+    {"text": "heavy wet cement squish", "at_word": "semen", "dur": 1.0, "gain_db": -11},
+    {"text": "heavy car being lifted metal creak", "at_word": "mobil", "dur": 1.2, "gain_db": -12},
+    {"text": "water trickling into sand", "at_word": "air", "dur": 1.5, "gain_db": -12},
+    {"text": "tide waves rolling in", "at_word": "pasang", "dur": 2.0, "gain_db": -12},
+    {"text": "soft comedic squeeze hug squish", "at_word": "memelukmu", "dur": 1.0, "gain_db": -11}
+  ]
+}

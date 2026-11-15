@@ -1,0 +1,30 @@
+# Rahasia
+.env
+
+# Dependensi dan alat (dipasang sendiri, lihat README)
+.venv/
+node_modules/
+tools/ffmpeg/
+tools/uv/
+tools/uv-cache/
+tools/hf/
+__pycache__/
+
+# Hasil render dan audio (besar, bisa dibuat ulang)
+out/
+projects/*/cache/
+projects/*/*.wav
+projects/*/*.mp3
+
+# Aset sumber lengkap Kenney (yang dipakai ada di public/bridge/kenney/)
+assets_src/
+
+# Frame dan contact sheet dari video orang lain: hanya untuk studi gaya, jangan dipublikasikan
+.claude/skills/cartoon-3d-short/references/frames/
+.claude/skills/cartoon-3d-short/references/sheets/
+.agents/skills/cartoon-3d-short/references/frames/
+.agents/skills/cartoon-3d-short/references/sheets/
+
+# File lokal
+samples/
+branding/

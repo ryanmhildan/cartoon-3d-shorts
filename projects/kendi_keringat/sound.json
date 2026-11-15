@@ -1,0 +1,23 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "warm playful Indonesian village cartoon music, light gamelan bells and bonang, plucked kecapi strings, soft kendang hand drum, curious and gentle, turning into a bright reveal, 100 bpm, instrumental", "gain_db": -11},
+  "sfx": [
+    {"text": "water drip falling on a clay floor, then a cartoon whoosh", "at": 0.0, "dur": 1.2, "gain_db": -11},
+    {"text": "quiet village afternoon, roosters and birds chirping in the distance", "at_word": "Mbah", "nth": 2, "dur": 2.5, "gain_db": -15, "offset": -0.3},
+    {"text": "pouring water from a clay jug into a cup", "at_word": "tanah", "dur": 1.5, "gain_db": -12},
+    {"text": "front door opening, footsteps on wooden floor, glass bottle clink", "at_word": "pulang", "dur": 2.0, "gain_db": -13},
+    {"local": "boing", "at_word": "bocor", "nth": 3, "gain_db": -13},
+    {"text": "glass bottle placed on a wooden table, clink", "at_word": "menaruh", "dur": 0.8, "gain_db": -11},
+    {"text": "hot summer cicadas buzzing loudly", "at_word": "Siang", "dur": 2.5, "gain_db": -14},
+    {"text": "person drinking a gulp of water then spitting, comedic disgust", "at_word": "hangat", "dur": 1.2, "gain_db": -11, "offset": -0.3},
+    {"text": "long satisfied gulp of cool water", "at_word": "minum", "nth": 2, "dur": 1.4, "gain_db": -11},
+    {"text": "soft magical cool shimmer, icy sparkle", "at_word": "Sejuk", "dur": 1.2, "gain_db": -12},
+    {"text": "vinyl record scratch", "at_word": "Tunggu", "dur": 0.6, "gain_db": -11, "offset": -0.15},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "magnifying glass zoom whoosh", "at_word": "lubang", "dur": 0.8, "gain_db": -12, "offset": -0.2},
+    {"text": "gentle steam hiss rising, soft airy whoosh upward", "at_word": "menguap", "dur": 1.4, "gain_db": -12},
+    {"text": "electric fan turning on, soft wind", "at_word": "angin", "dur": 1.5, "gain_db": -13, "offset": -0.4},
+    {"text": "cartoon sad trombone short", "at_word": "ikut", "dur": 1.2, "gain_db": -13},
+    {"local": "chime", "at_word": "kepanasan", "gain_db": -12}
+  ]
+}

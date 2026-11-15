@@ -1,0 +1,10 @@
+{
+  "tail": 0.6,
+  "music": {"prompt": "light playful cartoon march, pizzicato strings, snare drum, whistling, quirky and curious, 112 bpm", "gain_db": -10},
+  "sfx": [
+    {"text": "cartoon whoosh", "at": 0.0, "dur": 0.6, "gain_db": -10},
+    {"text": "heavy wooden bridge creaking and groaning", "at_word": "jembatan", "dur": 1.5, "gain_db": -9},
+    {"local": "pop", "at_word": "Tidak", "nth": 2, "gain_db": -12},
+    {"text": "many soldiers boots marching in step on wooden planks", "at_word": "berbaris", "dur": 3.0, "gain_db": -9}
+  ]
+}

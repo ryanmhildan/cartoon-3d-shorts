@@ -1,0 +1,22 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "playful sneaky cartoon market music, plucked kecapi and pizzicato strings, light kendang hand drum and wood blocks, cheeky and curious, building to a bright clever reveal, 108 bpm, instrumental", "gain_db": -11},
+  "sfx": [
+    {"text": "cartoon whoosh then a coin flip ping", "at": 0.0, "dur": 1.0, "gain_db": -11},
+    {"text": "busy traditional Indonesian market ambience, distant chatter, vendors calling", "at_word": "pasar", "nth": 2, "dur": 3.0, "gain_db": -15, "offset": -0.3},
+    {"text": "marker pen squeaking on cardboard, writing quickly", "at_word": "mengganti", "dur": 1.5, "gain_db": -11},
+    {"local": "pop", "at_word": "sembilan", "nth": 1, "gain_db": -12},
+    {"text": "woman laughing loudly, hearty market vendor laugh", "at_word": "tertawa", "dur": 1.8, "gain_db": -11},
+    {"text": "woven basket wobbling and rattling", "at_word": "goyang", "dur": 0.8, "gain_db": -13, "offset": -0.2},
+    {"text": "crowd of shoppers murmuring excitedly, footsteps shuffling", "at_word": "antrean", "dur": 2.5, "gain_db": -13},
+    {"text": "quick cartoon eyes darting sound, two short swishes", "at_word": "melirik", "dur": 0.8, "gain_db": -12},
+    {"text": "vinyl record scratch", "at_word": "Tunggu", "dur": 0.6, "gain_db": -11, "offset": -0.15},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "magical zoom whoosh with a big bouncy boing", "at_word": "sembilan", "nth": 3, "dur": 1.0, "gain_db": -12, "offset": -0.2},
+    {"text": "cash register cha-ching", "at_word": "memutuskan", "dur": 1.0, "gain_db": -12},
+    {"text": "newspaper page flipping", "at_word": "judul", "dur": 0.8, "gain_db": -12, "offset": -0.2},
+    {"local": "chime", "at_word": "bersebelahan", "nth": 2, "gain_db": -12},
+    {"text": "cartoon sad trombone short", "at_word": "apa-apa", "dur": 1.2, "gain_db": -13},
+    {"local": "coins", "at_word": "pembeli", "nth": 3, "gain_db": -11}
+  ]
+}

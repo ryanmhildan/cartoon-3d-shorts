@@ -1,0 +1,747 @@
+[
+ {
+  "word": "Seorang",
+  "start": 0.0,
+  "end": 0.337
+ },
+ {
+  "word": "dokter",
+  "start": 0.372,
+  "end": 0.662
+ },
+ {
+  "word": "sengaja",
+  "start": 0.731,
+  "end": 1.126
+ },
+ {
+  "word": "menulari",
+  "start": 1.184,
+  "end": 1.556
+ },
+ {
+  "word": "anak",
+  "start": 1.591,
+  "end": 1.753
+ },
+ {
+  "word": "kecil",
+  "start": 1.776,
+  "end": 2.055
+ },
+ {
+  "word": "dengan",
+  "start": 2.113,
+  "end": 2.31
+ },
+ {
+  "word": "penyakit",
+  "start": 2.345,
+  "end": 2.659
+ },
+ {
+  "word": "sapi",
+  "start": 2.682,
+  "end": 3.193
+ },
+ {
+  "word": "Inggris",
+  "start": 3.541,
+  "end": 4.296
+ },
+ {
+  "word": "tahun",
+  "start": 4.4,
+  "end": 4.69
+ },
+ {
+  "word": "seribu",
+  "start": 4.748,
+  "end": 5.027
+ },
+ {
+  "word": "tujuh",
+  "start": 5.074,
+  "end": 5.329
+ },
+ {
+  "word": "ratus",
+  "start": 5.352,
+  "end": 5.584
+ },
+ {
+  "word": "sembilan",
+  "start": 5.619,
+  "end": 6.118
+ },
+ {
+  "word": "puluh",
+  "start": 6.177,
+  "end": 6.432
+ },
+ {
+  "word": "enam",
+  "start": 6.455,
+  "end": 6.954
+ },
+ {
+  "word": "cacar",
+  "start": 7.117,
+  "end": 7.546
+ },
+ {
+  "word": "sedang",
+  "start": 7.616,
+  "end": 7.872
+ },
+ {
+  "word": "mengamuk",
+  "start": 7.918,
+  "end": 8.429
+ },
+ {
+  "word": "Dokter",
+  "start": 8.719,
+  "end": 9.067
+ },
+ {
+  "word": "desa",
+  "start": 9.125,
+  "end": 9.358
+ },
+ {
+  "word": "bernama",
+  "start": 9.416,
+  "end": 9.822
+ },
+ {
+  "word": "Edward",
+  "start": 9.903,
+  "end": 10.275
+ },
+ {
+  "word": "Jenner",
+  "start": 10.356,
+  "end": 10.635
+ },
+ {
+  "word": "mendengar",
+  "start": 10.983,
+  "end": 11.447
+ },
+ {
+  "word": "cerita",
+  "start": 11.505,
+  "end": 11.796
+ },
+ {
+  "word": "aneh",
+  "start": 11.9,
+  "end": 12.249
+ },
+ {
+  "word": "dari",
+  "start": 12.307,
+  "end": 12.481
+ },
+ {
+  "word": "pemerah",
+  "start": 12.527,
+  "end": 12.852
+ },
+ {
+  "word": "susu",
+  "start": 12.875,
+  "end": 13.41
+ },
+ {
+  "word": "Katanya",
+  "start": 13.595,
+  "end": 14.223
+ },
+ {
+  "word": "yang",
+  "start": 14.478,
+  "end": 14.652
+ },
+ {
+  "word": "pernah",
+  "start": 14.71,
+  "end": 14.942
+ },
+ {
+  "word": "kena",
+  "start": 14.977,
+  "end": 15.117
+ },
+ {
+  "word": "cacar",
+  "start": 15.163,
+  "end": 15.36
+ },
+ {
+  "word": "sapi",
+  "start": 15.395,
+  "end": 15.732
+ },
+ {
+  "word": "nggak",
+  "start": 16.022,
+  "end": 16.243
+ },
+ {
+  "word": "bakal",
+  "start": 16.301,
+  "end": 16.521
+ },
+ {
+  "word": "kena",
+  "start": 16.545,
+  "end": 16.684
+ },
+ {
+  "word": "cacar",
+  "start": 16.73,
+  "end": 17.137
+ },
+ {
+  "word": "Jenner",
+  "start": 17.543,
+  "end": 17.926
+ },
+ {
+  "word": "mengambil",
+  "start": 18.031,
+  "end": 18.472
+ },
+ {
+  "word": "cairan",
+  "start": 18.53,
+  "end": 18.797
+ },
+ {
+  "word": "lepuh",
+  "start": 18.843,
+  "end": 19.11
+ },
+ {
+  "word": "dari",
+  "start": 19.145,
+  "end": 19.319
+ },
+ {
+  "word": "tangan",
+  "start": 19.354,
+  "end": 19.586
+ },
+ {
+  "word": "Sarah",
+  "start": 19.633,
+  "end": 20.074
+ },
+ {
+  "word": "seorang",
+  "start": 20.364,
+  "end": 20.643
+ },
+ {
+  "word": "pemerah",
+  "start": 20.666,
+  "end": 20.921
+ },
+ {
+  "word": "susu",
+  "start": 20.945,
+  "end": 21.386
+ },
+ {
+  "word": "Lalu",
+  "start": 21.676,
+  "end": 21.978
+ },
+ {
+  "word": "menggoreskannya",
+  "start": 22.059,
+  "end": 22.779
+ },
+ {
+  "word": "ke",
+  "start": 22.837,
+  "end": 22.93
+ },
+ {
+  "word": "lengan",
+  "start": 22.976,
+  "end": 23.197
+ },
+ {
+  "word": "James",
+  "start": 23.255,
+  "end": 23.766
+ },
+ {
+  "word": "anak",
+  "start": 23.952,
+  "end": 24.207
+ },
+ {
+  "word": "tukang",
+  "start": 24.254,
+  "end": 24.521
+ },
+ {
+  "word": "kebunnya",
+  "start": 24.555,
+  "end": 25.02
+ },
+ {
+  "word": "yang",
+  "start": 25.206,
+  "end": 25.403
+ },
+ {
+  "word": "berumur",
+  "start": 25.461,
+  "end": 25.751
+ },
+ {
+  "word": "delapan",
+  "start": 25.856,
+  "end": 26.285
+ },
+ {
+  "word": "tahun",
+  "start": 26.332,
+  "end": 26.726
+ },
+ {
+  "word": "Beberapa",
+  "start": 27.133,
+  "end": 27.516
+ },
+ {
+  "word": "minggu",
+  "start": 27.562,
+  "end": 27.783
+ },
+ {
+  "word": "kemudian",
+  "start": 27.829,
+  "end": 28.387
+ },
+ {
+  "word": "Jenner",
+  "start": 28.677,
+  "end": 29.002
+ },
+ {
+  "word": "nekat",
+  "start": 29.072,
+  "end": 29.327
+ },
+ {
+  "word": "menulari",
+  "start": 29.385,
+  "end": 29.71
+ },
+ {
+  "word": "James",
+  "start": 29.768,
+  "end": 29.977
+ },
+ {
+  "word": "dengan",
+  "start": 30.035,
+  "end": 30.244
+ },
+ {
+  "word": "cacar",
+  "start": 30.302,
+  "end": 30.581
+ },
+ {
+  "word": "sungguhan",
+  "start": 30.639,
+  "end": 31.161
+ },
+ {
+  "word": "Dan",
+  "start": 31.568,
+  "end": 31.765
+ },
+ {
+  "word": "James",
+  "start": 31.87,
+  "end": 32.462
+ },
+ {
+  "word": "nggak",
+  "start": 32.647,
+  "end": 32.833
+ },
+ {
+  "word": "sakit",
+  "start": 32.868,
+  "end": 33.1
+ },
+ {
+  "word": "sama",
+  "start": 33.123,
+  "end": 33.286
+ },
+ {
+  "word": "sekali",
+  "start": 33.321,
+  "end": 33.75
+ },
+ {
+  "word": "Banyak",
+  "start": 33.936,
+  "end": 34.203
+ },
+ {
+  "word": "orang",
+  "start": 34.25,
+  "end": 34.482
+ },
+ {
+  "word": "mengejek",
+  "start": 34.517,
+  "end": 35.062
+ },
+ {
+  "word": "sampai",
+  "start": 35.225,
+  "end": 35.515
+ },
+ {
+  "word": "ada",
+  "start": 35.562,
+  "end": 35.759
+ },
+ {
+  "word": "gambar",
+  "start": 35.817,
+  "end": 36.084
+ },
+ {
+  "word": "sindiran",
+  "start": 36.13,
+  "end": 36.455
+ },
+ {
+  "word": "orang",
+  "start": 36.514,
+  "end": 36.734
+ },
+ {
+  "word": "tumbuh",
+  "start": 36.781,
+  "end": 36.978
+ },
+ {
+  "word": "kepala",
+  "start": 37.001,
+  "end": 37.222
+ },
+ {
+  "word": "sapi",
+  "start": 37.257,
+  "end": 37.686
+ },
+ {
+  "word": "Tapi",
+  "start": 37.907,
+  "end": 38.162
+ },
+ {
+  "word": "kok",
+  "start": 38.197,
+  "end": 38.313
+ },
+ {
+  "word": "bisa",
+  "start": 38.36,
+  "end": 38.917
+ },
+ {
+  "word": "penyakit",
+  "start": 39.033,
+  "end": 39.393
+ },
+ {
+  "word": "sapi",
+  "start": 39.428,
+  "end": 39.671
+ },
+ {
+  "word": "melindungi",
+  "start": 39.729,
+  "end": 40.101
+ },
+ {
+  "word": "dari",
+  "start": 40.147,
+  "end": 40.298
+ },
+ {
+  "word": "cacar",
+  "start": 40.333,
+  "end": 40.845
+ },
+ {
+  "word": "Ternyata",
+  "start": 41.135,
+  "end": 41.831
+ },
+ {
+  "word": "virus",
+  "start": 41.971,
+  "end": 42.319
+ },
+ {
+  "word": "cacar",
+  "start": 42.377,
+  "end": 42.656
+ },
+ {
+  "word": "sapi",
+  "start": 42.714,
+  "end": 42.992
+ },
+ {
+  "word": "itu",
+  "start": 43.016,
+  "end": 43.283
+ },
+ {
+  "word": "mirip",
+  "start": 43.573,
+  "end": 43.956
+ },
+ {
+  "word": "banget",
+  "start": 44.061,
+  "end": 44.42
+ },
+ {
+  "word": "dengan",
+  "start": 44.478,
+  "end": 44.711
+ },
+ {
+  "word": "virus",
+  "start": 44.78,
+  "end": 45.047
+ },
+ {
+  "word": "cacar",
+  "start": 45.105,
+  "end": 45.384
+ },
+ {
+  "word": "manusia",
+  "start": 45.442,
+  "end": 45.976
+ },
+ {
+  "word": "Tubuh",
+  "start": 46.382,
+  "end": 46.731
+ },
+ {
+  "word": "berlatih",
+  "start": 46.777,
+  "end": 47.242
+ },
+ {
+  "word": "melawan",
+  "start": 47.288,
+  "end": 47.578
+ },
+ {
+  "word": "si",
+  "start": 47.636,
+  "end": 47.718
+ },
+ {
+  "word": "kembaran",
+  "start": 47.764,
+  "end": 48.136
+ },
+ {
+  "word": "yang",
+  "start": 48.194,
+  "end": 48.31
+ },
+ {
+  "word": "lemah",
+  "start": 48.356,
+  "end": 48.763
+ },
+ {
+  "word": "jadi",
+  "start": 48.983,
+  "end": 49.18
+ },
+ {
+  "word": "siap",
+  "start": 49.227,
+  "end": 49.587
+ },
+ {
+  "word": "saat",
+  "start": 49.691,
+  "end": 49.912
+ },
+ {
+  "word": "yang",
+  "start": 49.97,
+  "end": 50.074
+ },
+ {
+  "word": "asli",
+  "start": 50.133,
+  "end": 50.365
+ },
+ {
+  "word": "datang",
+  "start": 50.411,
+  "end": 50.806
+ },
+ {
+  "word": "Kayak",
+  "start": 51.061,
+  "end": 51.363
+ },
+ {
+  "word": "latihan",
+  "start": 51.479,
+  "end": 51.804
+ },
+ {
+  "word": "kebakaran",
+  "start": 51.862,
+  "end": 52.466
+ },
+ {
+  "word": "pas",
+  "start": 52.652,
+  "end": 52.826
+ },
+ {
+  "word": "api",
+  "start": 52.907,
+  "end": 53.151
+ },
+ {
+  "word": "beneran",
+  "start": 53.209,
+  "end": 53.511
+ },
+ {
+  "word": "datang",
+  "start": 53.569,
+  "end": 53.999
+ },
+ {
+  "word": "semua",
+  "start": 54.138,
+  "end": 54.614
+ },
+ {
+  "word": "sudah",
+  "start": 54.649,
+  "end": 54.869
+ },
+ {
+  "word": "siap",
+  "start": 54.893,
+  "end": 55.206
+ },
+ {
+  "word": "Dan",
+  "start": 55.496,
+  "end": 55.706
+ },
+ {
+  "word": "sampai",
+  "start": 55.961,
+  "end": 56.228
+ },
+ {
+  "word": "sekarang",
+  "start": 56.263,
+  "end": 56.785
+ },
+ {
+  "word": "caranya",
+  "start": 56.948,
+  "end": 57.308
+ },
+ {
+  "word": "masih",
+  "start": 57.366,
+  "end": 57.668
+ },
+ {
+  "word": "kita",
+  "start": 57.703,
+  "end": 57.865
+ },
+ {
+  "word": "namai",
+  "start": 57.9,
+  "end": 58.167
+ },
+ {
+  "word": "pakai",
+  "start": 58.225,
+  "end": 58.422
+ },
+ {
+  "word": "sapi",
+  "start": 58.457,
+  "end": 58.945
+ },
+ {
+  "word": "Bahasa",
+  "start": 59.165,
+  "end": 59.456
+ },
+ {
+  "word": "Latin",
+  "start": 59.479,
+  "end": 59.699
+ },
+ {
+  "word": "sapi",
+  "start": 59.746,
+  "end": 60.013
+ },
+ {
+  "word": "adalah",
+  "start": 60.036,
+  "end": 60.361
+ },
+ {
+  "word": "vacca",
+  "start": 60.582,
+  "end": 61.069
+ },
+ {
+  "word": "asal",
+  "start": 61.708,
+  "end": 61.882
+ },
+ {
+  "word": "kata",
+  "start": 61.917,
+  "end": 62.08
+ },
+ {
+  "word": "vaksin",
+  "start": 62.126,
+  "end": 62.741
+ }
+]

@@ -1,0 +1,21 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "playful curious underwater cartoon music, warm marimba and plucked strings, soft hand drums, gentle bubbly synth, light mystery turning into a bright reveal, 100 bpm, instrumental", "gain_db": -11},
+  "sfx": [
+    {"text": "big underwater dive splash then deep bubbles", "at": 0.0, "dur": 1.5, "gain_db": -11},
+    {"text": "calm tropical sea waves lapping on wooden stilt houses, seagulls", "at_word": "Bajau", "dur": 2.5, "gain_db": -14, "offset": -0.6},
+    {"local": "tick", "at_word": "jam", "gain_db": -13},
+    {"text": "small group of tourists gasping in amazement", "at_word": "geleng-geleng", "dur": 1.5, "gain_db": -13},
+    {"text": "person jumping into the sea splash", "at_word": "mencoba", "dur": 1.2, "gain_db": -11},
+    {"text": "man bursting out of water gasping and coughing for air, comedic", "at_word": "megap-megap", "dur": 1.6, "gain_db": -10, "offset": -0.2},
+    {"text": "gentle underwater bubbles and swimming swoosh", "at_word": "santai", "dur": 2.0, "gain_db": -13},
+    {"text": "small wooden boat motor arriving at a dock", "at_word": "ilmuwan", "dur": 1.8, "gain_db": -14},
+    {"text": "vinyl record scratch", "at_word": "Tunggu", "dur": 0.6, "gain_db": -11, "offset": -0.15},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "cartoon squeeze squish sound", "at_word": "meremas", "dur": 0.8, "gain_db": -11},
+    {"text": "cartoon pump whoosh with bubbles", "at_word": "memompa", "dur": 1.0, "gain_db": -12},
+    {"text": "electronic power up chime, battery charging", "at_word": "nyala", "dur": 1.0, "gain_db": -12, "offset": -0.2},
+    {"local": "chime", "at_word": "pun", "gain_db": -13},
+    {"text": "deep slow ocean swell whoosh", "at_word": "tubuh", "dur": 2.0, "gain_db": -12, "offset": -0.3}
+  ]
+}

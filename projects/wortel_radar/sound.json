@@ -1,0 +1,22 @@
+{
+  "tail": 0.8,
+  "music": {"prompt": "playful 1940s wartime cartoon spy music, sneaky pizzicato strings, muted trumpet, light snare brushes, clarinet, mysterious then a bright reveal, 108 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "cartoon whoosh", "at": 0.0, "dur": 0.6, "gain_db": -11},
+    {"text": "crunchy bite of a fresh carrot", "at_word": "wortel", "dur": 0.7, "gain_db": -10},
+    {"text": "big light switch clunk and lights going out", "at_word": "dipadamkan", "dur": 1.0, "gain_db": -12},
+    {"text": "distant propeller bombers droning at night", "at_word": "Pesawat", "dur": 3.0, "gain_db": -14},
+    {"text": "cartoon propeller plane diving with a whistle and puff of smoke", "at_word": "menjatuhkan", "dur": 1.6, "gain_db": -12},
+    {"text": "cartoon cat meow", "at_word": "Kucing", "dur": 0.8, "gain_db": -11},
+    {"text": "old camera flash bulbs popping and reporters murmuring", "at_word": "pemerintah", "dur": 1.5, "gain_db": -14},
+    {"text": "loud crunchy carrot bite", "at_word": "wortel", "nth": 2, "dur": 0.6, "gain_db": -10},
+    {"text": "happy children cheering", "at_word": "lolipop", "dur": 1.2, "gain_db": -14},
+    {"text": "record scratch", "at_word": "tunggu", "dur": 0.6, "gain_db": -11},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "retro radar ping sonar beep", "at_word": "radar", "dur": 1.5, "gain_db": -12},
+    {"text": "man shouting hello echoing in a cave", "at_word": "teriak", "dur": 2.0, "gain_db": -12},
+    {"text": "secret stamp thud on paper", "at_word": "kedok", "dur": 0.6, "gain_db": -11},
+    {"local": "chime", "at_word": "vitamin", "gain_db": -13},
+    {"text": "light comedic sting", "at_word": "begitu", "dur": 1.0, "gain_db": -13}
+  ]
+}

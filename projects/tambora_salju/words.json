@@ -1,0 +1,752 @@
+[
+ {
+  "word": "Salju",
+  "start": 0.0,
+  "end": 0.382
+ },
+ {
+  "word": "turun",
+  "start": 0.438,
+  "end": 0.65
+ },
+ {
+  "word": "di",
+  "start": 0.696,
+  "end": 0.752
+ },
+ {
+  "word": "tengah",
+  "start": 0.796,
+  "end": 0.998
+ },
+ {
+  "word": "musim",
+  "start": 1.032,
+  "end": 1.279
+ },
+ {
+  "word": "panas",
+  "start": 1.324,
+  "end": 1.828
+ },
+ {
+  "word": "dan",
+  "start": 2.008,
+  "end": 2.154
+ },
+ {
+  "word": "biang",
+  "start": 2.221,
+  "end": 2.479
+ },
+ {
+  "word": "keroknya",
+  "start": 2.524,
+  "end": 2.827
+ },
+ {
+  "word": "sebuah",
+  "start": 2.871,
+  "end": 3.152
+ },
+ {
+  "word": "gunung",
+  "start": 3.208,
+  "end": 3.489
+ },
+ {
+  "word": "di",
+  "start": 3.533,
+  "end": 3.579
+ },
+ {
+  "word": "Indonesia",
+  "start": 3.612,
+  "end": 4.161
+ },
+ {
+  "word": "Tahun",
+  "start": 4.689,
+  "end": 4.958
+ },
+ {
+  "word": "seribu",
+  "start": 5.014,
+  "end": 5.295
+ },
+ {
+  "word": "delapan",
+  "start": 5.339,
+  "end": 5.676
+ },
+ {
+  "word": "ratus",
+  "start": 5.732,
+  "end": 5.979
+ },
+ {
+  "word": "lima",
+  "start": 6.024,
+  "end": 6.192
+ },
+ {
+  "word": "belas",
+  "start": 6.237,
+  "end": 6.708
+ },
+ {
+  "word": "Gunung",
+  "start": 6.988,
+  "end": 7.325
+ },
+ {
+  "word": "Tambora",
+  "start": 7.381,
+  "end": 7.706
+ },
+ {
+  "word": "di",
+  "start": 7.74,
+  "end": 7.808
+ },
+ {
+  "word": "Sumbawa",
+  "start": 7.852,
+  "end": 8.166
+ },
+ {
+  "word": "meledak",
+  "start": 8.211,
+  "end": 8.694
+ },
+ {
+  "word": "suaranya",
+  "start": 8.906,
+  "end": 9.332
+ },
+ {
+  "word": "terdengar",
+  "start": 9.389,
+  "end": 9.815
+ },
+ {
+  "word": "sampai",
+  "start": 9.894,
+  "end": 10.242
+ },
+ {
+  "word": "Sumatra",
+  "start": 10.286,
+  "end": 10.87
+ },
+ {
+  "word": "Setahun",
+  "start": 11.15,
+  "end": 11.442
+ },
+ {
+  "word": "kemudian",
+  "start": 11.498,
+  "end": 12.159
+ },
+ {
+  "word": "petani",
+  "start": 12.271,
+  "end": 12.609
+ },
+ {
+  "word": "Amerika",
+  "start": 12.653,
+  "end": 13.035
+ },
+ {
+  "word": "bernama",
+  "start": 13.091,
+  "end": 13.562
+ },
+ {
+  "word": "Tom",
+  "start": 13.674,
+  "end": 13.977
+ },
+ {
+  "word": "menanam",
+  "start": 14.314,
+  "end": 14.695
+ },
+ {
+  "word": "jagung",
+  "start": 14.762,
+  "end": 15.244
+ },
+ {
+  "word": "Bulan",
+  "start": 15.525,
+  "end": 15.816
+ },
+ {
+  "word": "Juni",
+  "start": 15.872,
+  "end": 16.288
+ },
+ {
+  "word": "ia",
+  "start": 16.468,
+  "end": 16.59
+ },
+ {
+  "word": "bangun",
+  "start": 16.646,
+  "end": 17.04
+ },
+ {
+  "word": "dan",
+  "start": 17.096,
+  "end": 17.196
+ },
+ {
+  "word": "kebunnya",
+  "start": 17.252,
+  "end": 17.668
+ },
+ {
+  "word": "putih",
+  "start": 17.724,
+  "end": 18.105
+ },
+ {
+  "word": "tertutup",
+  "start": 18.15,
+  "end": 18.475
+ },
+ {
+  "word": "salju",
+  "start": 18.52,
+  "end": 18.991
+ },
+ {
+  "word": "Tetangganya",
+  "start": 19.328,
+  "end": 19.787
+ },
+ {
+  "word": "bilang",
+  "start": 19.833,
+  "end": 20.214
+ },
+ {
+  "word": "Tenang",
+  "start": 20.315,
+  "end": 20.931
+ },
+ {
+  "word": "besok",
+  "start": 21.179,
+  "end": 21.56
+ },
+ {
+  "word": "juga",
+  "start": 21.717,
+  "end": 22.02
+ },
+ {
+  "word": "cair",
+  "start": 22.177,
+  "end": 22.671
+ },
+ {
+  "word": "Bulan",
+  "start": 23.007,
+  "end": 23.265
+ },
+ {
+  "word": "Juli",
+  "start": 23.31,
+  "end": 23.736
+ },
+ {
+  "word": "embun",
+  "start": 23.871,
+  "end": 24.174
+ },
+ {
+  "word": "beku",
+  "start": 24.23,
+  "end": 24.41
+ },
+ {
+  "word": "datang",
+  "start": 24.454,
+  "end": 24.678
+ },
+ {
+  "word": "lagi",
+  "start": 24.7,
+  "end": 25.082
+ },
+ {
+  "word": "Agustus",
+  "start": 25.362,
+  "end": 26.014
+ },
+ {
+  "word": "lagi",
+  "start": 26.26,
+  "end": 26.731
+ },
+ {
+  "word": "Di",
+  "start": 26.944,
+  "end": 27.045
+ },
+ {
+  "word": "Eropa",
+  "start": 27.101,
+  "end": 27.707
+ },
+ {
+  "word": "panen",
+  "start": 27.842,
+  "end": 28.145
+ },
+ {
+  "word": "gagal",
+  "start": 28.212,
+  "end": 28.773
+ },
+ {
+  "word": "harga",
+  "start": 28.986,
+  "end": 29.3
+ },
+ {
+  "word": "roti",
+  "start": 29.345,
+  "end": 29.535
+ },
+ {
+  "word": "melonjak",
+  "start": 29.591,
+  "end": 30.197
+ },
+ {
+  "word": "orang-orang",
+  "start": 30.411,
+  "end": 30.959
+ },
+ {
+  "word": "kelaparan",
+  "start": 30.993,
+  "end": 31.611
+ },
+ {
+  "word": "Ada",
+  "start": 31.823,
+  "end": 32.059
+ },
+ {
+  "word": "yang",
+  "start": 32.115,
+  "end": 32.261
+ },
+ {
+  "word": "bilang",
+  "start": 32.306,
+  "end": 32.53
+ },
+ {
+  "word": "ini",
+  "start": 32.609,
+  "end": 32.743
+ },
+ {
+  "word": "kutukan",
+  "start": 32.788,
+  "end": 33.383
+ },
+ {
+  "word": "ada",
+  "start": 33.663,
+  "end": 33.899
+ },
+ {
+  "word": "yang",
+  "start": 33.955,
+  "end": 34.078
+ },
+ {
+  "word": "menyalahkan",
+  "start": 34.123,
+  "end": 34.628
+ },
+ {
+  "word": "bintik",
+  "start": 34.729,
+  "end": 35.054
+ },
+ {
+  "word": "matahari",
+  "start": 35.11,
+  "end": 35.638
+ },
+ {
+  "word": "Tunggu",
+  "start": 35.794,
+  "end": 36.412
+ },
+ {
+  "word": "kok",
+  "start": 36.625,
+  "end": 36.838
+ },
+ {
+  "word": "letusan",
+  "start": 36.939,
+  "end": 37.309
+ },
+ {
+  "word": "di",
+  "start": 37.365,
+  "end": 37.432
+ },
+ {
+  "word": "Indonesia",
+  "start": 37.455,
+  "end": 37.915
+ },
+ {
+  "word": "bikin",
+  "start": 38.094,
+  "end": 38.307
+ },
+ {
+  "word": "Amerika",
+  "start": 38.363,
+  "end": 38.655
+ },
+ {
+  "word": "kedinginan",
+  "start": 38.689,
+  "end": 39.295
+ },
+ {
+  "word": "Ternyata",
+  "start": 39.541,
+  "end": 40.181
+ },
+ {
+  "word": "Tambora",
+  "start": 40.293,
+  "end": 40.797
+ },
+ {
+  "word": "menyemburkan",
+  "start": 40.853,
+  "end": 41.358
+ },
+ {
+  "word": "belerang",
+  "start": 41.414,
+  "end": 41.796
+ },
+ {
+  "word": "sampai",
+  "start": 41.852,
+  "end": 42.177
+ },
+ {
+  "word": "ke",
+  "start": 42.211,
+  "end": 42.267
+ },
+ {
+  "word": "langit",
+  "start": 42.312,
+  "end": 42.525
+ },
+ {
+  "word": "paling",
+  "start": 42.581,
+  "end": 42.929
+ },
+ {
+  "word": "atas",
+  "start": 42.985,
+  "end": 43.444
+ },
+ {
+  "word": "Di",
+  "start": 43.658,
+  "end": 43.758
+ },
+ {
+  "word": "sana",
+  "start": 43.804,
+  "end": 44.331
+ },
+ {
+  "word": "belerang",
+  "start": 44.544,
+  "end": 44.892
+ },
+ {
+  "word": "jadi",
+  "start": 44.926,
+  "end": 45.071
+ },
+ {
+  "word": "kabut",
+  "start": 45.105,
+  "end": 45.363
+ },
+ {
+  "word": "halus",
+  "start": 45.419,
+  "end": 45.733
+ },
+ {
+  "word": "yang",
+  "start": 46.014,
+  "end": 46.182
+ },
+ {
+  "word": "melayang",
+  "start": 46.215,
+  "end": 46.529
+ },
+ {
+  "word": "lebih",
+  "start": 46.586,
+  "end": 46.81
+ },
+ {
+  "word": "dari",
+  "start": 46.843,
+  "end": 46.989
+ },
+ {
+  "word": "setahun",
+  "start": 47.023,
+  "end": 47.461
+ },
+ {
+  "word": "Kabut",
+  "start": 47.707,
+  "end": 48.021
+ },
+ {
+  "word": "itu",
+  "start": 48.077,
+  "end": 48.381
+ },
+ {
+  "word": "menyebar",
+  "start": 48.593,
+  "end": 48.975
+ },
+ {
+  "word": "mengelilingi",
+  "start": 49.053,
+  "end": 49.547
+ },
+ {
+  "word": "bumi",
+  "start": 49.592,
+  "end": 50.041
+ },
+ {
+  "word": "memantulkan",
+  "start": 50.175,
+  "end": 50.736
+ },
+ {
+  "word": "sebagian",
+  "start": 50.792,
+  "end": 51.151
+ },
+ {
+  "word": "cahaya",
+  "start": 51.207,
+  "end": 51.476
+ },
+ {
+  "word": "matahari",
+  "start": 51.522,
+  "end": 52.082
+ },
+ {
+  "word": "Kayak",
+  "start": 52.362,
+  "end": 52.632
+ },
+ {
+  "word": "payung",
+  "start": 52.688,
+  "end": 52.98
+ },
+ {
+  "word": "raksasa",
+  "start": 53.036,
+  "end": 53.596
+ },
+ {
+  "word": "yang",
+  "start": 53.81,
+  "end": 53.989
+ },
+ {
+  "word": "dibuka",
+  "start": 54.045,
+  "end": 54.505
+ },
+ {
+  "word": "di",
+  "start": 54.561,
+  "end": 54.617
+ },
+ {
+  "word": "atas",
+  "start": 54.662,
+  "end": 54.83
+ },
+ {
+  "word": "seluruh",
+  "start": 54.853,
+  "end": 55.357
+ },
+ {
+  "word": "planet",
+  "start": 55.38,
+  "end": 55.717
+ },
+ {
+  "word": "Panas",
+  "start": 56.053,
+  "end": 56.333
+ },
+ {
+  "word": "yang",
+  "start": 56.389,
+  "end": 56.513
+ },
+ {
+  "word": "hilang",
+  "start": 56.547,
+  "end": 56.793
+ },
+ {
+  "word": "cuma",
+  "start": 56.849,
+  "end": 57.041
+ },
+ {
+  "word": "sedikit",
+  "start": 57.085,
+  "end": 57.568
+ },
+ {
+  "word": "tapi",
+  "start": 57.725,
+  "end": 57.972
+ },
+ {
+  "word": "cukup",
+  "start": 58.028,
+  "end": 58.353
+ },
+ {
+  "word": "buat",
+  "start": 58.454,
+  "end": 58.667
+ },
+ {
+  "word": "bikin",
+  "start": 58.724,
+  "end": 58.926
+ },
+ {
+  "word": "salju",
+  "start": 58.982,
+  "end": 59.228
+ },
+ {
+  "word": "di",
+  "start": 59.272,
+  "end": 59.318
+ },
+ {
+  "word": "bulan",
+  "start": 59.362,
+  "end": 59.576
+ },
+ {
+  "word": "Juni",
+  "start": 59.62,
+  "end": 59.968
+ },
+ {
+  "word": "Jadi",
+  "start": 60.361,
+  "end": 60.552
+ },
+ {
+  "word": "musim",
+  "start": 60.596,
+  "end": 60.854
+ },
+ {
+  "word": "panas",
+  "start": 60.9,
+  "end": 61.112
+ },
+ {
+  "word": "tahun",
+  "start": 61.157,
+  "end": 61.393
+ },
+ {
+  "word": "itu",
+  "start": 61.449,
+  "end": 61.561
+ },
+ {
+  "word": "nggak",
+  "start": 61.595,
+  "end": 61.774
+ },
+ {
+  "word": "hilang",
+  "start": 61.797,
+  "end": 62.156
+ },
+ {
+  "word": "Ia",
+  "start": 62.605,
+  "end": 62.795
+ },
+ {
+  "word": "dicuri",
+  "start": 62.84,
+  "end": 63.121
+ },
+ {
+  "word": "sebuah",
+  "start": 63.165,
+  "end": 63.413
+ },
+ {
+  "word": "gunung",
+  "start": 63.457,
+  "end": 63.737
+ },
+ {
+  "word": "di",
+  "start": 63.783,
+  "end": 63.827
+ },
+ {
+  "word": "Sumbawa",
+  "start": 63.872,
+  "end": 64.613
+ }
+]

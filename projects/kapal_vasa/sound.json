@@ -1,0 +1,24 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "light comedic baroque sea shanty march, plucked strings, fife and soft snare, wooden percussion, playful pomp turning into curious mystery then a bright reveal, 108 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "big ship hull groaning then a heavy splash into the sea", "at": 0.0, "dur": 2.0, "gain_db": -11},
+    {"text": "busy 17th century harbour, seagulls, wooden ship creaking, gentle water", "at_word": "Tahun", "dur": 3.0, "gain_db": -15, "offset": -0.3},
+    {"text": "regal royal trumpet fanfare, short", "at_word": "Raja", "dur": 1.5, "gain_db": -13},
+    {"text": "heavy iron cannons rolling into place on a wooden deck, thud", "at_word": "meriam", "dur": 1.5, "gain_db": -12},
+    {"local": "chime", "at_word": "emas", "gain_db": -14},
+    {"text": "group of sailors running back and forth on a wooden deck, stomping footsteps", "at_word": "lari", "dur": 2.5, "gain_db": -12},
+    {"text": "large wooden ship creaking and rocking heavily, comedic wobble", "at_word": "goyang", "dur": 1.6, "gain_db": -11},
+    {"text": "referee whistle blow, short", "at_word": "dihentikan", "dur": 0.6, "gain_db": -13},
+    {"local": "boing", "at_word": "jelek", "gain_db": -14},
+    {"text": "big crowd cheering at a harbour, distant cannon salute boom", "at_word": "bersorak", "dur": 2.5, "gain_db": -12, "offset": -0.3},
+    {"text": "soft gentle breeze whoosh", "at_word": "angin", "dur": 1.5, "gain_db": -12},
+    {"text": "large wooden ship creaking and tipping over, water gushing in, crowd gasping", "at_word": "miring", "dur": 3.5, "gain_db": -11},
+    {"text": "vinyl record scratch", "at_word": "Tunggu", "dur": 0.6, "gain_db": -11, "offset": -0.15},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "small rowing boat wobbling on water, gentle splashes", "at_word": "perahu", "dur": 1.5, "gain_db": -13},
+    {"text": "cartoon wobble then a person falling into water splash, comedic", "at_word": "terbalik", "dur": 1.5, "gain_db": -11, "offset": -0.2},
+    {"text": "heavy metal clunk", "at_word": "Meriam", "dur": 0.6, "gain_db": -13},
+    {"text": "soft gentle breeze whoosh", "at_word": "sepoi-sepoi", "nth": 3, "dur": 1.5, "gain_db": -13}
+  ]
+}

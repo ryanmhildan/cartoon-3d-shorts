@@ -1,0 +1,24 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "quirky cartoon folk music with a mysterious twist, plucky pizzicato strings, banjo, glockenspiel, soft timpani, playful then curious, building to a warm reveal, 100 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "cold winter wind gust with a magical shimmer", "at_word": "salju", "dur": 1.6, "gain_db": -11, "offset": -0.05},
+    {"text": "huge volcanic eruption explosion deep boom and rumble", "at_word": "meledak", "dur": 2.5, "gain_db": -7, "offset": -0.05},
+    {"text": "deep distant thunder boom echoing across the sea", "at_word": "Sumatra", "dur": 1.8, "gain_db": -11},
+    {"text": "farmer digging soil with a hoe, birds chirping on a summer farm", "at_word": "menanam", "dur": 2.0, "gain_db": -14},
+    {"text": "cartoon surprised gasp and soft snow crunch footsteps", "at_word": "putih", "dur": 1.5, "gain_db": -12},
+    {"text": "friendly old man chuckle", "at_word": "Tenang", "dur": 1.2, "gain_db": -12},
+    {"text": "ice crackling and freezing frost sound", "at_word": "embun", "dur": 1.5, "gain_db": -12},
+    {"text": "icy wind howl short", "at_word": "lagi", "nth": 2, "dur": 1.0, "gain_db": -13},
+    {"text": "medieval market crowd murmuring unhappy", "at_word": "Eropa", "dur": 2.5, "gain_db": -15},
+    {"text": "cartoon coins jingling and a rising slide whistle", "at_word": "melonjak", "dur": 1.0, "gain_db": -12},
+    {"text": "stomach growling loudly cartoon", "at_word": "kelaparan", "dur": 1.0, "gain_db": -12},
+    {"local": "boing", "at_word": "Tunggu", "gain_db": -12},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "volcano blasting a plume of gas high into the sky, whoosh rising", "at_word": "menyemburkan", "dur": 2.0, "gain_db": -11},
+    {"text": "soft airy shimmering whoosh spreading around", "at_word": "menyebar", "dur": 2.0, "gain_db": -13},
+    {"text": "umbrella opening whoosh pop cartoon", "at_word": "dibuka", "dur": 0.8, "gain_db": -10, "offset": -0.1},
+    {"text": "short winter wind gust", "at_word": "salju", "nth": 3, "dur": 1.2, "gain_db": -13},
+    {"local": "sting", "at_word": "dicuri", "gain_db": -12}
+  ]
+}

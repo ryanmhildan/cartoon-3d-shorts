@@ -1,0 +1,752 @@
+[
+ {
+  "word": "Di",
+  "start": 0.0,
+  "end": 0.128
+ },
+ {
+  "word": "tengah",
+  "start": 0.174,
+  "end": 0.383
+ },
+ {
+  "word": "perang",
+  "start": 0.441,
+  "end": 0.848
+ },
+ {
+  "word": "tentara",
+  "start": 0.987,
+  "end": 1.382
+ },
+ {
+  "word": "disuruh",
+  "start": 1.44,
+  "end": 1.788
+ },
+ {
+  "word": "menutup",
+  "start": 1.823,
+  "end": 2.159
+ },
+ {
+  "word": "hidung",
+  "start": 2.218,
+  "end": 2.519
+ },
+ {
+  "word": "pakai",
+  "start": 2.705,
+  "end": 2.984
+ },
+ {
+  "word": "kain",
+  "start": 3.03,
+  "end": 3.379
+ },
+ {
+  "word": "yang",
+  "start": 3.564,
+  "end": 3.727
+ },
+ {
+  "word": "dibasahi",
+  "start": 3.773,
+  "end": 4.18
+ },
+ {
+  "word": "air",
+  "start": 4.238,
+  "end": 4.389
+ },
+ {
+  "word": "kencing",
+  "start": 4.447,
+  "end": 4.772
+ },
+ {
+  "word": "sendiri",
+  "start": 4.807,
+  "end": 5.259
+ },
+ {
+  "word": "Tahun",
+  "start": 5.48,
+  "end": 5.805
+ },
+ {
+  "word": "seribu",
+  "start": 5.863,
+  "end": 6.177
+ },
+ {
+  "word": "sembilan",
+  "start": 6.235,
+  "end": 6.629
+ },
+ {
+  "word": "ratus",
+  "start": 6.687,
+  "end": 6.943
+ },
+ {
+  "word": "lima",
+  "start": 7.012,
+  "end": 7.187
+ },
+ {
+  "word": "belas",
+  "start": 7.233,
+  "end": 7.709
+ },
+ {
+  "word": "di",
+  "start": 7.872,
+  "end": 7.988
+ },
+ {
+  "word": "parit",
+  "start": 8.046,
+  "end": 8.29
+ },
+ {
+  "word": "dekat",
+  "start": 8.336,
+  "end": 8.557
+ },
+ {
+  "word": "Ypres",
+  "start": 8.603,
+  "end": 9.172
+ },
+ {
+  "word": "Belgia",
+  "start": 9.427,
+  "end": 10.019
+ },
+ {
+  "word": "Pagi",
+  "start": 10.31,
+  "end": 10.588
+ },
+ {
+  "word": "itu",
+  "start": 10.635,
+  "end": 11.088
+ },
+ {
+  "word": "awan",
+  "start": 11.25,
+  "end": 11.54
+ },
+ {
+  "word": "hijau",
+  "start": 11.598,
+  "end": 11.97
+ },
+ {
+  "word": "kekuningan",
+  "start": 12.016,
+  "end": 12.504
+ },
+ {
+  "word": "merayap",
+  "start": 12.574,
+  "end": 12.98
+ },
+ {
+  "word": "pelan",
+  "start": 13.119,
+  "end": 13.468
+ },
+ {
+  "word": "dari",
+  "start": 13.526,
+  "end": 13.735
+ },
+ {
+  "word": "arah",
+  "start": 13.804,
+  "end": 14.071
+ },
+ {
+  "word": "musuh",
+  "start": 14.129,
+  "end": 14.594
+ },
+ {
+  "word": "Mata",
+  "start": 14.884,
+  "end": 15.302
+ },
+ {
+  "word": "perih",
+  "start": 15.36,
+  "end": 15.836
+ },
+ {
+  "word": "Belum",
+  "start": 16.057,
+  "end": 16.289
+ },
+ {
+  "word": "ada",
+  "start": 16.335,
+  "end": 16.44
+ },
+ {
+  "word": "satu",
+  "start": 16.486,
+  "end": 16.753
+ },
+ {
+  "word": "pun",
+  "start": 16.811,
+  "end": 17.009
+ },
+ {
+  "word": "tentara",
+  "start": 17.055,
+  "end": 17.38
+ },
+ {
+  "word": "yang",
+  "start": 17.415,
+  "end": 17.531
+ },
+ {
+  "word": "punya",
+  "start": 17.578,
+  "end": 17.775
+ },
+ {
+  "word": "masker",
+  "start": 17.81,
+  "end": 18.088
+ },
+ {
+  "word": "gas",
+  "start": 18.146,
+  "end": 18.599
+ },
+ {
+  "word": "Tentara",
+  "start": 18.82,
+  "end": 19.18
+ },
+ {
+  "word": "Kanada",
+  "start": 19.238,
+  "end": 19.528
+ },
+ {
+  "word": "mencium",
+  "start": 19.586,
+  "end": 20.004
+ },
+ {
+  "word": "baunya",
+  "start": 20.062,
+  "end": 20.619
+ },
+ {
+  "word": "dan",
+  "start": 20.782,
+  "end": 20.933
+ },
+ {
+  "word": "anehnya",
+  "start": 21.003,
+  "end": 21.653
+ },
+ {
+  "word": "baunya",
+  "start": 21.815,
+  "end": 22.198
+ },
+ {
+  "word": "mirip",
+  "start": 22.256,
+  "end": 22.535
+ },
+ {
+  "word": "air",
+  "start": 22.616,
+  "end": 22.79
+ },
+ {
+  "word": "minum",
+  "start": 22.86,
+  "end": 23.104
+ },
+ {
+  "word": "mereka",
+  "start": 23.127,
+  "end": 23.359
+ },
+ {
+  "word": "sendiri",
+  "start": 23.406,
+  "end": 23.893
+ },
+ {
+  "word": "Air",
+  "start": 24.184,
+  "end": 24.416
+ },
+ {
+  "word": "minum",
+  "start": 24.474,
+  "end": 24.706
+ },
+ {
+  "word": "di",
+  "start": 24.753,
+  "end": 24.811
+ },
+ {
+  "word": "sana",
+  "start": 24.857,
+  "end": 25.205
+ },
+ {
+  "word": "memang",
+  "start": 25.368,
+  "end": 25.716
+ },
+ {
+  "word": "dibersihkan",
+  "start": 25.763,
+  "end": 26.273
+ },
+ {
+  "word": "pakai",
+  "start": 26.343,
+  "end": 26.703
+ },
+ {
+  "word": "klorin",
+  "start": 26.749,
+  "end": 27.156
+ },
+ {
+  "word": "Seorang",
+  "start": 27.504,
+  "end": 27.922
+ },
+ {
+  "word": "perwira",
+  "start": 27.969,
+  "end": 28.294
+ },
+ {
+  "word": "yang",
+  "start": 28.34,
+  "end": 28.456
+ },
+ {
+  "word": "paham",
+  "start": 28.503,
+  "end": 28.793
+ },
+ {
+  "word": "kimia",
+  "start": 28.851,
+  "end": 29.118
+ },
+ {
+  "word": "langsung",
+  "start": 29.164,
+  "end": 29.478
+ },
+ {
+  "word": "sadar",
+  "start": 29.524,
+  "end": 29.989
+ },
+ {
+  "word": "ini",
+  "start": 30.279,
+  "end": 30.5
+ },
+ {
+  "word": "gas",
+  "start": 30.546,
+  "end": 30.697
+ },
+ {
+  "word": "klorin",
+  "start": 30.755,
+  "end": 31.231
+ },
+ {
+  "word": "Lalu",
+  "start": 31.417,
+  "end": 31.603
+ },
+ {
+  "word": "datang",
+  "start": 31.661,
+  "end": 31.904
+ },
+ {
+  "word": "perintah",
+  "start": 31.939,
+  "end": 32.264
+ },
+ {
+  "word": "paling",
+  "start": 32.288,
+  "end": 32.52
+ },
+ {
+  "word": "aneh",
+  "start": 32.578,
+  "end": 32.752
+ },
+ {
+  "word": "dalam",
+  "start": 32.822,
+  "end": 33.054
+ },
+ {
+  "word": "sejarah",
+  "start": 33.123,
+  "end": 33.414
+ },
+ {
+  "word": "perang",
+  "start": 33.449,
+  "end": 33.901
+ },
+ {
+  "word": "Kencingi",
+  "start": 34.192,
+  "end": 34.586
+ },
+ {
+  "word": "sapu",
+  "start": 34.644,
+  "end": 34.888
+ },
+ {
+  "word": "tanganmu",
+  "start": 34.935,
+  "end": 35.55
+ },
+ {
+  "word": "lalu",
+  "start": 35.712,
+  "end": 35.91
+ },
+ {
+  "word": "tutup",
+  "start": 35.956,
+  "end": 36.2
+ },
+ {
+  "word": "mukamu",
+  "start": 36.247,
+  "end": 36.804
+ },
+ {
+  "word": "Jijik",
+  "start": 37.024,
+  "end": 37.558
+ },
+ {
+  "word": "Jelas",
+  "start": 37.907,
+  "end": 38.429
+ },
+ {
+  "word": "Tapi",
+  "start": 38.534,
+  "end": 38.801
+ },
+ {
+  "word": "nggak",
+  "start": 38.824,
+  "end": 38.998
+ },
+ {
+  "word": "ada",
+  "start": 39.021,
+  "end": 39.195
+ },
+ {
+  "word": "pilihan",
+  "start": 39.242,
+  "end": 39.544
+ },
+ {
+  "word": "lain",
+  "start": 39.602,
+  "end": 40.008
+ },
+ {
+  "word": "Tunggu",
+  "start": 40.264,
+  "end": 40.949
+ },
+ {
+  "word": "kok",
+  "start": 41.169,
+  "end": 41.355
+ },
+ {
+  "word": "kencing",
+  "start": 41.401,
+  "end": 41.773
+ },
+ {
+  "word": "bisa",
+  "start": 41.831,
+  "end": 42.028
+ },
+ {
+  "word": "melawan",
+  "start": 42.086,
+  "end": 42.377
+ },
+ {
+  "word": "gas",
+  "start": 42.435,
+  "end": 42.887
+ },
+ {
+  "word": "Ternyata",
+  "start": 43.143,
+  "end": 43.828
+ },
+ {
+  "word": "klorin",
+  "start": 44.014,
+  "end": 44.42
+ },
+ {
+  "word": "gampang",
+  "start": 44.49,
+  "end": 44.838
+ },
+ {
+  "word": "larut",
+  "start": 44.896,
+  "end": 45.14
+ },
+ {
+  "word": "di",
+  "start": 45.198,
+  "end": 45.28
+ },
+ {
+  "word": "air",
+  "start": 45.326,
+  "end": 45.732
+ },
+ {
+  "word": "Kain",
+  "start": 46.139,
+  "end": 46.336
+ },
+ {
+  "word": "basah",
+  "start": 46.394,
+  "end": 46.754
+ },
+ {
+  "word": "menangkap",
+  "start": 46.824,
+  "end": 47.23
+ },
+ {
+  "word": "sebagian",
+  "start": 47.288,
+  "end": 47.625
+ },
+ {
+  "word": "gas",
+  "start": 47.683,
+  "end": 47.927
+ },
+ {
+  "word": "sebelum",
+  "start": 48.217,
+  "end": 48.577
+ },
+ {
+  "word": "masuk",
+  "start": 48.623,
+  "end": 48.925
+ },
+ {
+  "word": "ke",
+  "start": 48.983,
+  "end": 49.041
+ },
+ {
+  "word": "paru-paru",
+  "start": 49.088,
+  "end": 49.726
+ },
+ {
+  "word": "Dan",
+  "start": 50.016,
+  "end": 50.167
+ },
+ {
+  "word": "air",
+  "start": 50.225,
+  "end": 50.365
+ },
+ {
+  "word": "kencing",
+  "start": 50.423,
+  "end": 50.794
+ },
+ {
+  "word": "mengandung",
+  "start": 50.876,
+  "end": 51.282
+ },
+ {
+  "word": "amonia",
+  "start": 51.34,
+  "end": 51.897
+ },
+ {
+  "word": "yang",
+  "start": 52.083,
+  "end": 52.257
+ },
+ {
+  "word": "bereaksi",
+  "start": 52.304,
+  "end": 52.652
+ },
+ {
+  "word": "dengan",
+  "start": 52.698,
+  "end": 52.896
+ },
+ {
+  "word": "klorin",
+  "start": 52.954,
+  "end": 53.279
+ },
+ {
+  "word": "dan",
+  "start": 53.441,
+  "end": 53.592
+ },
+ {
+  "word": "melemahkannya",
+  "start": 53.65,
+  "end": 54.382
+ },
+ {
+  "word": "Kayak",
+  "start": 54.788,
+  "end": 55.078
+ },
+ {
+  "word": "masker",
+  "start": 55.136,
+  "end": 55.462
+ },
+ {
+  "word": "basah",
+  "start": 55.52,
+  "end": 55.752
+ },
+ {
+  "word": "waktu",
+  "start": 55.787,
+  "end": 56.042
+ },
+ {
+  "word": "ada",
+  "start": 56.088,
+  "end": 56.251
+ },
+ {
+  "word": "asap",
+  "start": 56.274,
+  "end": 56.75
+ },
+ {
+  "word": "plus",
+  "start": 56.936,
+  "end": 57.145
+ },
+ {
+  "word": "bonus",
+  "start": 57.226,
+  "end": 57.458
+ },
+ {
+  "word": "kimia",
+  "start": 57.505,
+  "end": 57.958
+ },
+ {
+  "word": "Masker",
+  "start": 58.504,
+  "end": 58.864
+ },
+ {
+  "word": "gas",
+  "start": 58.922,
+  "end": 59.049
+ },
+ {
+  "word": "pertama",
+  "start": 59.107,
+  "end": 59.432
+ },
+ {
+  "word": "di",
+  "start": 59.479,
+  "end": 59.537
+ },
+ {
+  "word": "perang",
+  "start": 59.583,
+  "end": 59.792
+ },
+ {
+  "word": "itu",
+  "start": 59.85,
+  "end": 60.396
+ },
+ {
+  "word": "gratis",
+  "start": 60.942,
+  "end": 61.615
+ },
+ {
+  "word": "dan",
+  "start": 61.871,
+  "end": 62.021
+ },
+ {
+  "word": "semua",
+  "start": 62.126,
+  "end": 62.498
+ },
+ {
+  "word": "tentara",
+  "start": 62.532,
+  "end": 62.834
+ },
+ {
+  "word": "bawa",
+  "start": 62.881,
+  "end": 63.066
+ },
+ {
+  "word": "sendiri",
+  "start": 63.101,
+  "end": 63.717
+ }
+]

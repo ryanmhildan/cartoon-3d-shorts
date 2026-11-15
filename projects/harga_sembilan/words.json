@@ -1,0 +1,722 @@
+[
+ {
+  "word": "Pak",
+  "start": 0.0,
+  "end": 0.209
+ },
+ {
+  "word": "Joko",
+  "start": 0.267,
+  "end": 0.546
+ },
+ {
+  "word": "menurunkan",
+  "start": 0.604,
+  "end": 1.057
+ },
+ {
+  "word": "harga",
+  "start": 1.115,
+  "end": 1.416
+ },
+ {
+  "word": "cuma",
+  "start": 1.474,
+  "end": 1.73
+ },
+ {
+  "word": "seratus",
+  "start": 1.788,
+  "end": 2.113
+ },
+ {
+  "word": "rupiah",
+  "start": 2.171,
+  "end": 2.728
+ },
+ {
+  "word": "dan",
+  "start": 2.949,
+  "end": 3.1
+ },
+ {
+  "word": "pembeli",
+  "start": 3.17,
+  "end": 3.46
+ },
+ {
+  "word": "satu",
+  "start": 3.495,
+  "end": 3.657
+ },
+ {
+  "word": "pasar",
+  "start": 3.704,
+  "end": 3.982
+ },
+ {
+  "word": "pindah",
+  "start": 4.063,
+  "end": 4.447
+ },
+ {
+  "word": "ke",
+  "start": 4.493,
+  "end": 4.54
+ },
+ {
+  "word": "lapaknya",
+  "start": 4.574,
+  "end": 5.12
+ },
+ {
+  "word": "Di",
+  "start": 5.468,
+  "end": 5.573
+ },
+ {
+  "word": "pasar",
+  "start": 5.619,
+  "end": 5.851
+ },
+ {
+  "word": "ini",
+  "start": 5.909,
+  "end": 6.293
+ },
+ {
+  "word": "ada",
+  "start": 6.409,
+  "end": 6.583
+ },
+ {
+  "word": "dua",
+  "start": 6.641,
+  "end": 6.966
+ },
+ {
+  "word": "lapak",
+  "start": 7.001,
+  "end": 7.245
+ },
+ {
+  "word": "sandal",
+  "start": 7.303,
+  "end": 7.628
+ },
+ {
+  "word": "yang",
+  "start": 7.686,
+  "end": 7.825
+ },
+ {
+  "word": "bersebelahan",
+  "start": 7.872,
+  "end": 8.58
+ },
+ {
+  "word": "Bu",
+  "start": 8.87,
+  "end": 8.998
+ },
+ {
+  "word": "Rini",
+  "start": 9.056,
+  "end": 9.242
+ },
+ {
+  "word": "dan",
+  "start": 9.276,
+  "end": 9.392
+ },
+ {
+  "word": "Pak",
+  "start": 9.451,
+  "end": 9.578
+ },
+ {
+  "word": "Joko",
+  "start": 9.625,
+  "end": 9.985
+ },
+ {
+  "word": "sama-sama",
+  "start": 10.147,
+  "end": 10.67
+ },
+ {
+  "word": "pasang",
+  "start": 10.728,
+  "end": 11.099
+ },
+ {
+  "word": "harga",
+  "start": 11.169,
+  "end": 11.447
+ },
+ {
+  "word": "sepuluh",
+  "start": 11.505,
+  "end": 11.981
+ },
+ {
+  "word": "ribu",
+  "start": 12.016,
+  "end": 12.469
+ },
+ {
+  "word": "Suatu",
+  "start": 12.759,
+  "end": 13.05
+ },
+ {
+  "word": "pagi",
+  "start": 13.096,
+  "end": 13.607
+ },
+ {
+  "word": "Pak",
+  "start": 13.711,
+  "end": 13.874
+ },
+ {
+  "word": "Joko",
+  "start": 13.92,
+  "end": 14.187
+ },
+ {
+  "word": "mengganti",
+  "start": 14.245,
+  "end": 14.756
+ },
+ {
+  "word": "kartonnya",
+  "start": 14.802,
+  "end": 15.406
+ },
+ {
+  "word": "sembilan",
+  "start": 15.754,
+  "end": 16.347
+ },
+ {
+  "word": "ribu",
+  "start": 16.416,
+  "end": 16.672
+ },
+ {
+  "word": "sembilan",
+  "start": 16.73,
+  "end": 17.09
+ },
+ {
+  "word": "ratus",
+  "start": 17.148,
+  "end": 17.67
+ },
+ {
+  "word": "Bu",
+  "start": 17.891,
+  "end": 18.03
+ },
+ {
+  "word": "Rini",
+  "start": 18.065,
+  "end": 18.251
+ },
+ {
+  "word": "tertawa",
+  "start": 18.297,
+  "end": 18.68
+ },
+ {
+  "word": "sampai",
+  "start": 18.738,
+  "end": 19.098
+ },
+ {
+  "word": "keranjangnya",
+  "start": 19.145,
+  "end": 19.597
+ },
+ {
+  "word": "goyang",
+  "start": 19.644,
+  "end": 20.155
+ },
+ {
+  "word": "Seratus",
+  "start": 20.375,
+  "end": 20.828
+ },
+ {
+  "word": "perak",
+  "start": 20.874,
+  "end": 21.258
+ },
+ {
+  "word": "Beli",
+  "start": 21.397,
+  "end": 21.583
+ },
+ {
+  "word": "permen",
+  "start": 21.641,
+  "end": 21.884
+ },
+ {
+  "word": "aja",
+  "start": 21.943,
+  "end": 22.117
+ },
+ {
+  "word": "nggak",
+  "start": 22.151,
+  "end": 22.279
+ },
+ {
+  "word": "dapat",
+  "start": 22.314,
+  "end": 22.895
+ },
+ {
+  "word": "Tapi",
+  "start": 23.185,
+  "end": 23.603
+ },
+ {
+  "word": "siang",
+  "start": 23.951,
+  "end": 24.23
+ },
+ {
+  "word": "itu",
+  "start": 24.299,
+  "end": 24.741
+ },
+ {
+  "word": "antrean",
+  "start": 24.903,
+  "end": 25.298
+ },
+ {
+  "word": "di",
+  "start": 25.344,
+  "end": 25.414
+ },
+ {
+  "word": "lapak",
+  "start": 25.46,
+  "end": 25.693
+ },
+ {
+  "word": "Pak",
+  "start": 25.762,
+  "end": 25.867
+ },
+ {
+  "word": "Joko",
+  "start": 25.925,
+  "end": 26.157
+ },
+ {
+  "word": "mengular",
+  "start": 26.215,
+  "end": 26.761
+ },
+ {
+  "word": "Pembeli",
+  "start": 27.016,
+  "end": 27.364
+ },
+ {
+  "word": "melirik",
+  "start": 27.422,
+  "end": 27.736
+ },
+ {
+  "word": "dua",
+  "start": 27.794,
+  "end": 27.98
+ },
+ {
+  "word": "karton",
+  "start": 28.015,
+  "end": 28.293
+ },
+ {
+  "word": "itu",
+  "start": 28.351,
+  "end": 28.723
+ },
+ {
+  "word": "lalu",
+  "start": 28.909,
+  "end": 29.211
+ },
+ {
+  "word": "belok",
+  "start": 29.373,
+  "end": 29.64
+ },
+ {
+  "word": "ke",
+  "start": 29.675,
+  "end": 29.768
+ },
+ {
+  "word": "kanan",
+  "start": 29.803,
+  "end": 30.267
+ },
+ {
+  "word": "Tunggu",
+  "start": 30.453,
+  "end": 31.15
+ },
+ {
+  "word": "cuma",
+  "start": 31.37,
+  "end": 31.579
+ },
+ {
+  "word": "beda",
+  "start": 31.626,
+  "end": 31.8
+ },
+ {
+  "word": "seratus",
+  "start": 31.846,
+  "end": 32.113
+ },
+ {
+  "word": "rupiah",
+  "start": 32.16,
+  "end": 32.694
+ },
+ {
+  "word": "kok",
+  "start": 32.856,
+  "end": 33.019
+ },
+ {
+  "word": "bisa",
+  "start": 33.054,
+  "end": 33.681
+ },
+ {
+  "word": "Ternyata",
+  "start": 33.901,
+  "end": 34.598
+ },
+ {
+  "word": "otak",
+  "start": 34.737,
+  "end": 34.981
+ },
+ {
+  "word": "kita",
+  "start": 35.004,
+  "end": 35.201
+ },
+ {
+  "word": "membaca",
+  "start": 35.248,
+  "end": 35.596
+ },
+ {
+  "word": "harga",
+  "start": 35.654,
+  "end": 35.921
+ },
+ {
+  "word": "dari",
+  "start": 35.979,
+  "end": 36.142
+ },
+ {
+  "word": "kiri",
+  "start": 36.188,
+  "end": 36.641
+ },
+ {
+  "word": "dan",
+  "start": 36.78,
+  "end": 37.001
+ },
+ {
+  "word": "angka",
+  "start": 37.222,
+  "end": 37.535
+ },
+ {
+  "word": "pertama",
+  "start": 37.57,
+  "end": 37.895
+ },
+ {
+  "word": "yang",
+  "start": 37.941,
+  "end": 38.058
+ },
+ {
+  "word": "paling",
+  "start": 38.116,
+  "end": 38.429
+ },
+ {
+  "word": "nempel",
+  "start": 38.464,
+  "end": 38.975
+ },
+ {
+  "word": "Begitu",
+  "start": 39.323,
+  "end": 39.625
+ },
+ {
+  "word": "mata",
+  "start": 39.683,
+  "end": 39.938
+ },
+ {
+  "word": "lihat",
+  "start": 39.985,
+  "end": 40.136
+ },
+ {
+  "word": "angka",
+  "start": 40.194,
+  "end": 40.403
+ },
+ {
+  "word": "sembilan",
+  "start": 40.449,
+  "end": 40.983
+ },
+ {
+  "word": "otak",
+  "start": 41.169,
+  "end": 41.471
+ },
+ {
+  "word": "sudah",
+  "start": 41.517,
+  "end": 41.726
+ },
+ {
+  "word": "memutuskan",
+  "start": 41.749,
+  "end": 42.411
+ },
+ {
+  "word": "Oh",
+  "start": 42.551,
+  "end": 43.178
+ },
+ {
+  "word": "sembilan",
+  "start": 43.363,
+  "end": 43.804
+ },
+ {
+  "word": "ribuan",
+  "start": 43.862,
+  "end": 44.466
+ },
+ {
+  "word": "Kayak",
+  "start": 44.872,
+  "end": 45.116
+ },
+ {
+  "word": "baca",
+  "start": 45.151,
+  "end": 45.43
+ },
+ {
+  "word": "judul",
+  "start": 45.499,
+  "end": 45.72
+ },
+ {
+  "word": "berita",
+  "start": 45.778,
+  "end": 46.289
+ },
+ {
+  "word": "kamu",
+  "start": 46.451,
+  "end": 46.753
+ },
+ {
+  "word": "sudah",
+  "start": 46.8,
+  "end": 47.02
+ },
+ {
+  "word": "merasa",
+  "start": 47.055,
+  "end": 47.299
+ },
+ {
+  "word": "tahu",
+  "start": 47.345,
+  "end": 47.566
+ },
+ {
+  "word": "isinya",
+  "start": 47.647,
+  "end": 48.065
+ },
+ {
+  "word": "sebelum",
+  "start": 48.228,
+  "end": 48.564
+ },
+ {
+  "word": "baca",
+  "start": 48.599,
+  "end": 48.808
+ },
+ {
+  "word": "sampai",
+  "start": 48.855,
+  "end": 49.087
+ },
+ {
+  "word": "habis",
+  "start": 49.11,
+  "end": 49.563
+ },
+ {
+  "word": "Efeknya",
+  "start": 49.853,
+  "end": 50.375
+ },
+ {
+  "word": "paling",
+  "start": 50.434,
+  "end": 50.735
+ },
+ {
+  "word": "kuat",
+  "start": 50.759,
+  "end": 51.002
+ },
+ {
+  "word": "kalau",
+  "start": 51.165,
+  "end": 51.409
+ },
+ {
+  "word": "dua",
+  "start": 51.455,
+  "end": 51.653
+ },
+ {
+  "word": "harga",
+  "start": 51.711,
+  "end": 51.989
+ },
+ {
+  "word": "dipajang",
+  "start": 52.024,
+  "end": 52.407
+ },
+ {
+  "word": "bersebelahan",
+  "start": 52.442,
+  "end": 53.046
+ },
+ {
+  "word": "Persis",
+  "start": 53.336,
+  "end": 53.661
+ },
+ {
+  "word": "kayak",
+  "start": 53.719,
+  "end": 53.94
+ },
+ {
+  "word": "dua",
+  "start": 53.986,
+  "end": 54.184
+ },
+ {
+  "word": "lapak",
+  "start": 54.218,
+  "end": 54.427
+ },
+ {
+  "word": "sandal",
+  "start": 54.474,
+  "end": 54.718
+ },
+ {
+  "word": "ini",
+  "start": 54.776,
+  "end": 55.159
+ },
+ {
+  "word": "Bu",
+  "start": 55.507,
+  "end": 55.612
+ },
+ {
+  "word": "Rini",
+  "start": 55.635,
+  "end": 55.832
+ },
+ {
+  "word": "benar",
+  "start": 55.879,
+  "end": 56.285
+ },
+ {
+  "word": "seratus",
+  "start": 56.447,
+  "end": 56.761
+ },
+ {
+  "word": "rupiah",
+  "start": 56.819,
+  "end": 57.121
+ },
+ {
+  "word": "memang",
+  "start": 57.167,
+  "end": 57.527
+ },
+ {
+  "word": "nggak",
+  "start": 57.713,
+  "end": 57.934
+ },
+ {
+  "word": "bisa",
+  "start": 57.98,
+  "end": 58.212
+ },
+ {
+  "word": "beli",
+  "start": 58.27,
+  "end": 58.41
+ },
+ {
+  "word": "apa-apa",
+  "start": 58.444,
+  "end": 59.06
+ },
+ {
+  "word": "Kecuali",
+  "start": 59.245,
+  "end": 59.617
+ },
+ {
+  "word": "pembeli",
+  "start": 59.652,
+  "end": 60.279
+ }
+]

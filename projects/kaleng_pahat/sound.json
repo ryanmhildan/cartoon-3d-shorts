@@ -1,0 +1,21 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "playful french cartoon music, accordion and pizzicato strings, light snare, mischievous kitchen mystery, 104 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "cartoon whoosh", "at": 0.0, "dur": 0.6, "gain_db": -11},
+    {"text": "coins jingling prize money", "at_word": "hadiah", "dur": 1.0, "gain_db": -12},
+    {"text": "military drum roll short", "at_word": "Tentara", "dur": 1.5, "gain_db": -12},
+    {"text": "busy kitchen pots clanging", "at_word": "Paris", "dur": 1.5, "gain_db": -13},
+    {"text": "glass bottle cork pop squeak", "at_word": "disumbat", "dur": 0.6, "gain_db": -11},
+    {"text": "water boiling bubbling in a big pot", "at_word": "direbus", "dur": 2.0, "gain_db": -12},
+    {"text": "people murmuring doubtfully hmm", "at_word": "ragu", "dur": 1.2, "gain_db": -13},
+    {"text": "triumphant small fanfare", "at_word": "jatuh", "dur": 1.2, "gain_db": -12},
+    {"local": "boing", "at_word": "Anehnya", "gain_db": -12},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "tiny squeaky cartoon creatures giggling", "at_word": "makhluk", "dur": 1.0, "gain_db": -13},
+    {"text": "mosquito buzzing", "at_word": "nyamuk", "dur": 1.0, "gain_db": -12},
+    {"text": "door slam and key lock click", "at_word": "kunci", "dur": 0.8, "gain_db": -11},
+    {"text": "metal tin can clank", "at_word": "kaleng", "dur": 0.6, "gain_db": -11},
+    {"text": "hammer hitting chisel on metal can clang clang", "at_word": "pahat", "dur": 1.2, "gain_db": -10}
+  ]
+}

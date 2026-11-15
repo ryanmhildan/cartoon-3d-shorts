@@ -1,0 +1,21 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "gentle mysterious cartoon music, soft plucked strings, light frame drum, warm flute, calm tension building to a hopeful reveal, 96 bpm, instrumental", "gain_db": -11},
+  "sfx": [
+    {"text": "deep ocean wave whoosh", "at": 0.0, "dur": 1.2, "gain_db": -12},
+    {"text": "calm tropical beach waves and seagulls", "at_word": "Simeulue", "dur": 2.5, "gain_db": -14},
+    {"text": "low earthquake rumble with wooden house rattling", "at_word": "berguncang", "dur": 3.0, "gain_db": -9, "offset": -0.3},
+    {"text": "water draining away rushing back from the shore", "at_word": "surut", "dur": 2.0, "gain_db": -11},
+    {"text": "small fish flopping on wet sand", "at_word": "menggelepar", "dur": 1.5, "gain_db": -11},
+    {"text": "people chatting on a beach", "at_word": "memunguti", "dur": 1.8, "gain_db": -15},
+    {"text": "group of people running footsteps on dirt path", "at_word": "lari", "dur": 2.0, "gain_db": -11},
+    {"local": "chime", "at_word": "smong", "gain_db": -11},
+    {"text": "old storyteller page turn soft", "at_word": "cerita", "dur": 0.8, "gain_db": -13},
+    {"text": "distant big wave rolling", "at_word": "naik", "dur": 1.8, "gain_db": -13},
+    {"text": "vinyl record scratch", "at_word": "Tunggu", "dur": 0.6, "gain_db": -11, "offset": -0.15},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "long slow ocean swell whoosh", "at_word": "gelombang", "dur": 2.0, "gain_db": -12},
+    {"text": "blanket cloth being pulled whoosh", "at_word": "selimut", "dur": 1.0, "gain_db": -11},
+    {"text": "deep slow ocean breath inhale", "at_word": "napas", "dur": 1.8, "gain_db": -12, "offset": -0.3}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "tense but quirky cartoon mystery, low cello pizzicato, soft snare rolls, light woodwind, curious and slightly comedic, building to a bright clever reveal, 96 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "soldiers coughing, muffled, short", "at": 0.2, "dur": 2.0, "gain_db": -13},
+    {"text": "distant artillery rumble far away, low and soft", "at_word": "Tahun", "dur": 3.0, "gain_db": -16},
+    {"text": "eerie low hissing gas cloud creeping, wind", "at_word": "awan", "dur": 3.5, "gain_db": -13},
+    {"text": "person coughing and wincing, eyes stinging", "at_word": "perih", "dur": 1.5, "gain_db": -12, "offset": -0.2},
+    {"text": "loud comedic sniffing sound", "at_word": "mencium", "dur": 1.0, "gain_db": -12},
+    {"text": "water sloshing in a metal canteen", "at_word": "air", "nth": 2, "dur": 1.2, "gain_db": -13},
+    {"local": "ding", "at_word": "sadar", "gain_db": -12},
+    {"text": "military whistle blow, short", "at_word": "perintah", "dur": 0.8, "gain_db": -13},
+    {"local": "boing", "at_word": "Kencingi", "gain_db": -13},
+    {"text": "comedic disgusted groan, eww", "at_word": "Jijik", "dur": 1.0, "gain_db": -12},
+    {"text": "vinyl record scratch", "at_word": "Tunggu", "dur": 0.6, "gain_db": -11, "offset": -0.15},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "bubbles dissolving in a glass of water, fizz", "at_word": "larut", "dur": 1.5, "gain_db": -12},
+    {"text": "chemistry reaction fizz and soft pop", "at_word": "bereaksi", "dur": 1.5, "gain_db": -12},
+    {"text": "crackling campfire with smoke", "at_word": "asap", "dur": 2.0, "gain_db": -13, "offset": -0.3},
+    {"local": "chime", "at_word": "gratis", "gain_db": -12}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "gentle Javanese gamelan inspired melody with bonang and soft kendang drum, light curious cartoon mood, slightly tense in the middle, warm bright reveal at the end, 100 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "rural village morning, roosters crowing, distant birds", "at": 0.0, "dur": 2.5, "gain_db": -14},
+    {"text": "hoe digging into soil, small dirt thud", "at_word": "menanam", "dur": 1.2, "gain_db": -13},
+    {"local": "boing", "at_word": "bengong", "gain_db": -14},
+    {"text": "military boots marching on a dirt road, short", "at_word": "tentara", "dur": 2.0, "gain_db": -13},
+    {"local": "pop", "at_word": "halaman", "gain_db": -13},
+    {"local": "pop", "at_word": "pinggir", "nth": 2, "gain_db": -13},
+    {"local": "pop", "at_word": "pematang", "gain_db": -13},
+    {"text": "people whispering softly, comedic gossip", "at_word": "berbisik", "dur": 2.0, "gain_db": -12},
+    {"text": "pouring dry seeds into a burlap sack", "at_word": "disetor", "dur": 1.5, "gain_db": -12},
+    {"text": "metal kerosene can sloshing, light clank", "at_word": "minyak", "dur": 1.2, "gain_db": -13},
+    {"text": "old truck engine starting and driving away on a dirt road", "at_word": "dibawa", "dur": 2.5, "gain_db": -14, "offset": -0.4},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "old propeller airplane engine roaring", "at_word": "Mesin", "dur": 2.0, "gain_db": -13},
+    {"text": "butter sizzling in a hot frying pan", "at_word": "mentega", "dur": 2.5, "gain_db": -12},
+    {"text": "smoky sizzle with a small puff, burning", "at_word": "gosong", "dur": 1.2, "gain_db": -12},
+    {"text": "smooth mechanical engine purring, oiled pistons", "at_word": "licin", "dur": 1.8, "gain_db": -13},
+    {"text": "empty rice bowl wooden spoon scraping, sad", "at_word": "beras", "dur": 1.2, "gain_db": -12}
+  ]
+}

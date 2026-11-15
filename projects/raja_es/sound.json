@@ -1,0 +1,22 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "playful old-time cartoon music, pizzicato strings, light accordion and glockenspiel, quirky sea shanty feel, 108 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "cartoon whoosh", "at": 0.0, "dur": 0.6, "gain_db": -11},
+    {"text": "wooden sailing ship creaking and waves", "at_word": "kapal", "dur": 2.0, "gain_db": -13},
+    {"text": "cold winter wind howling softly", "at_word": "Boston", "dur": 2.0, "gain_db": -14},
+    {"text": "ice saw cutting through thick lake ice", "at_word": "memotong", "dur": 1.8, "gain_db": -10},
+    {"text": "heavy ice blocks stacking thud", "at_word": "menumpuknya", "dur": 1.0, "gain_db": -11},
+    {"text": "newspaper rustle", "at_word": "Koran", "dur": 0.8, "gain_db": -11},
+    {"text": "group of townspeople laughing", "at_word": "gila", "dur": 1.6, "gain_db": -12, "offset": -0.2},
+    {"text": "water dripping and melting ice", "at_word": "mencair", "dur": 1.5, "gain_db": -11},
+    {"local": "boing", "at_word": "Rugi", "gain_db": -12},
+    {"text": "sawdust pouring onto ice", "at_word": "gergaji", "dur": 1.2, "gain_db": -11},
+    {"text": "ship bell ringing at harbor", "at_word": "India", "dur": 1.5, "gain_db": -12},
+    {"text": "crowd cheering at a harbor", "at_word": "utuh", "dur": 1.8, "gain_db": -12},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "soft puffy cartoon pop", "at_word": "kantong", "dur": 0.5, "gain_db": -12},
+    {"text": "zipper of a thick winter jacket", "at_word": "jaket", "dur": 0.8, "gain_db": -11},
+    {"text": "royal trumpet fanfare short", "at_word": "Raja", "dur": 1.2, "gain_db": -12}
+  ]
+}

@@ -1,0 +1,737 @@
+[
+ {
+  "word": "Pilot",
+  "start": 0.0,
+  "end": 0.29
+ },
+ {
+  "word": "terbaik",
+  "start": 0.313,
+  "end": 0.65
+ },
+ {
+  "word": "Inggris",
+  "start": 0.708,
+  "end": 1.103
+ },
+ {
+  "word": "bisa",
+  "start": 1.289,
+  "end": 1.521
+ },
+ {
+  "word": "menembak",
+  "start": 1.579,
+  "end": 2.009
+ },
+ {
+  "word": "musuh",
+  "start": 2.067,
+  "end": 2.334
+ },
+ {
+  "word": "dalam",
+  "start": 2.368,
+  "end": 2.577
+ },
+ {
+  "word": "gelap",
+  "start": 2.635,
+  "end": 3.03
+ },
+ {
+  "word": "katanya",
+  "start": 3.17,
+  "end": 3.634
+ },
+ {
+  "word": "karena",
+  "start": 3.82,
+  "end": 4.191
+ },
+ {
+  "word": "kebanyakan",
+  "start": 4.249,
+  "end": 4.702
+ },
+ {
+  "word": "makan",
+  "start": 4.737,
+  "end": 4.946
+ },
+ {
+  "word": "wortel",
+  "start": 5.004,
+  "end": 5.457
+ },
+ {
+  "word": "Tahun",
+  "start": 5.805,
+  "end": 6.095
+ },
+ {
+  "word": "seribu",
+  "start": 6.153,
+  "end": 6.444
+ },
+ {
+  "word": "sembilan",
+  "start": 6.502,
+  "end": 6.861
+ },
+ {
+  "word": "ratus",
+  "start": 6.92,
+  "end": 7.129
+ },
+ {
+  "word": "empat",
+  "start": 7.163,
+  "end": 7.396
+ },
+ {
+  "word": "puluh",
+  "start": 7.442,
+  "end": 7.802
+ },
+ {
+  "word": "Inggris",
+  "start": 7.988,
+  "end": 8.359
+ },
+ {
+  "word": "dipadamkan",
+  "start": 8.417,
+  "end": 8.916
+ },
+ {
+  "word": "tiap",
+  "start": 8.963,
+  "end": 9.137
+ },
+ {
+  "word": "malam",
+  "start": 9.195,
+  "end": 9.567
+ },
+ {
+  "word": "Pesawat",
+  "start": 9.822,
+  "end": 10.182
+ },
+ {
+  "word": "pengebom",
+  "start": 10.228,
+  "end": 10.612
+ },
+ {
+  "word": "datang",
+  "start": 10.67,
+  "end": 10.937
+ },
+ {
+  "word": "diam-diam",
+  "start": 10.983,
+  "end": 11.575
+ },
+ {
+  "word": "nyaris",
+  "start": 11.738,
+  "end": 12.028
+ },
+ {
+  "word": "nggak",
+  "start": 12.086,
+  "end": 12.272
+ },
+ {
+  "word": "kelihatan",
+  "start": 12.295,
+  "end": 12.864
+ },
+ {
+  "word": "Tapi",
+  "start": 13.05,
+  "end": 13.375
+ },
+ {
+  "word": "pilot",
+  "start": 13.433,
+  "end": 13.723
+ },
+ {
+  "word": "bernama",
+  "start": 13.793,
+  "end": 14.211
+ },
+ {
+  "word": "John",
+  "start": 14.35,
+  "end": 14.571
+ },
+ {
+  "word": "Cunningham",
+  "start": 14.64,
+  "end": 15.116
+ },
+ {
+  "word": "terus",
+  "start": 15.372,
+  "end": 15.569
+ },
+ {
+  "word": "menjatuhkan",
+  "start": 15.627,
+  "end": 16.034
+ },
+ {
+  "word": "mereka",
+  "start": 16.092,
+  "end": 16.498
+ },
+ {
+  "word": "Julukannya",
+  "start": 16.962,
+  "end": 17.694
+ },
+ {
+  "word": "Si",
+  "start": 17.798,
+  "end": 18.112
+ },
+ {
+  "word": "Mata",
+  "start": 18.158,
+  "end": 18.344
+ },
+ {
+  "word": "Kucing",
+  "start": 18.379,
+  "end": 18.936
+ },
+ {
+  "word": "Rahasianya",
+  "start": 19.482,
+  "end": 20.283
+ },
+ {
+  "word": "kata",
+  "start": 20.352,
+  "end": 20.561
+ },
+ {
+  "word": "pemerintah",
+  "start": 20.596,
+  "end": 21.119
+ },
+ {
+  "word": "Dia",
+  "start": 21.583,
+  "end": 21.943
+ },
+ {
+  "word": "makan",
+  "start": 22.059,
+  "end": 22.326
+ },
+ {
+  "word": "banyak",
+  "start": 22.431,
+  "end": 22.802
+ },
+ {
+  "word": "sekali",
+  "start": 22.849,
+  "end": 23.069
+ },
+ {
+  "word": "wortel",
+  "start": 23.104,
+  "end": 23.58
+ },
+ {
+  "word": "Rakyat",
+  "start": 23.87,
+  "end": 24.149
+ },
+ {
+  "word": "percaya",
+  "start": 24.195,
+  "end": 24.811
+ },
+ {
+  "word": "Anak-anak",
+  "start": 25.031,
+  "end": 25.623
+ },
+ {
+  "word": "sampai",
+  "start": 25.681,
+  "end": 26.006
+ },
+ {
+  "word": "dikasih",
+  "start": 26.041,
+  "end": 26.39
+ },
+ {
+  "word": "wortel",
+  "start": 26.424,
+  "end": 26.75
+ },
+ {
+  "word": "bertusuk",
+  "start": 26.808,
+  "end": 27.33
+ },
+ {
+  "word": "kayak",
+  "start": 27.493,
+  "end": 27.771
+ },
+ {
+  "word": "permen",
+  "start": 27.806,
+  "end": 28.073
+ },
+ {
+  "word": "lolipop",
+  "start": 28.131,
+  "end": 28.758
+ },
+ {
+  "word": "Tapi",
+  "start": 29.014,
+  "end": 29.42
+ },
+ {
+  "word": "tunggu",
+  "start": 29.71,
+  "end": 30.418
+ },
+ {
+  "word": "kalau",
+  "start": 30.639,
+  "end": 30.941
+ },
+ {
+  "word": "wortel",
+  "start": 30.964,
+  "end": 31.278
+ },
+ {
+  "word": "bikin",
+  "start": 31.336,
+  "end": 31.533
+ },
+ {
+  "word": "bisa",
+  "start": 31.579,
+  "end": 31.765
+ },
+ {
+  "word": "lihat",
+  "start": 31.812,
+  "end": 32.009
+ },
+ {
+  "word": "dalam",
+  "start": 32.055,
+  "end": 32.23
+ },
+ {
+  "word": "gelap",
+  "start": 32.288,
+  "end": 32.659
+ },
+ {
+  "word": "kenapa",
+  "start": 32.764,
+  "end": 33.158
+ },
+ {
+  "word": "yang",
+  "start": 33.216,
+  "end": 33.356
+ },
+ {
+  "word": "jago",
+  "start": 33.414,
+  "end": 33.692
+ },
+ {
+  "word": "cuma",
+  "start": 33.75,
+  "end": 34.076
+ },
+ {
+  "word": "pilot",
+  "start": 34.261,
+  "end": 34.54
+ },
+ {
+  "word": "itu",
+  "start": 34.598,
+  "end": 34.935
+ },
+ {
+  "word": "Ternyata",
+  "start": 35.341,
+  "end": 36.177
+ },
+ {
+  "word": "Cunningham",
+  "start": 36.363,
+  "end": 36.932
+ },
+ {
+  "word": "memang",
+  "start": 37.152,
+  "end": 37.454
+ },
+ {
+  "word": "punya",
+  "start": 37.501,
+  "end": 37.698
+ },
+ {
+  "word": "mata",
+  "start": 37.733,
+  "end": 37.907
+ },
+ {
+  "word": "baru",
+  "start": 37.965,
+  "end": 38.313
+ },
+ {
+  "word": "tapi",
+  "start": 38.534,
+  "end": 38.754
+ },
+ {
+  "word": "bukan",
+  "start": 38.801,
+  "end": 39.091
+ },
+ {
+  "word": "di",
+  "start": 39.138,
+  "end": 39.196
+ },
+ {
+  "word": "kepalanya",
+  "start": 39.23,
+  "end": 39.776
+ },
+ {
+  "word": "Pesawatnya",
+  "start": 39.939,
+  "end": 40.415
+ },
+ {
+  "word": "dipasangi",
+  "start": 40.461,
+  "end": 40.891
+ },
+ {
+  "word": "radar",
+  "start": 40.937,
+  "end": 41.134
+ },
+ {
+  "word": "rahasia",
+  "start": 41.158,
+  "end": 41.668
+ },
+ {
+  "word": "yang",
+  "start": 41.854,
+  "end": 42.017
+ },
+ {
+  "word": "memancarkan",
+  "start": 42.075,
+  "end": 42.632
+ },
+ {
+  "word": "gelombang",
+  "start": 42.702,
+  "end": 43.131
+ },
+ {
+  "word": "lalu",
+  "start": 43.352,
+  "end": 43.572
+ },
+ {
+  "word": "menangkap",
+  "start": 43.619,
+  "end": 43.979
+ },
+ {
+  "word": "pantulannya",
+  "start": 44.002,
+  "end": 44.641
+ },
+ {
+  "word": "Kayak",
+  "start": 45.047,
+  "end": 45.267
+ },
+ {
+  "word": "kamu",
+  "start": 45.291,
+  "end": 45.476
+ },
+ {
+  "word": "teriak",
+  "start": 45.523,
+  "end": 45.778
+ },
+ {
+  "word": "di",
+  "start": 45.836,
+  "end": 45.894
+ },
+ {
+  "word": "dalam",
+  "start": 45.941,
+  "end": 46.15
+ },
+ {
+  "word": "gua",
+  "start": 46.208,
+  "end": 46.614
+ },
+ {
+  "word": "lalu",
+  "start": 46.777,
+  "end": 46.997
+ },
+ {
+  "word": "tahu",
+  "start": 47.067,
+  "end": 47.415
+ },
+ {
+  "word": "jarak",
+  "start": 47.601,
+  "end": 47.88
+ },
+ {
+  "word": "dinding",
+  "start": 47.938,
+  "end": 48.274
+ },
+ {
+  "word": "dari",
+  "start": 48.321,
+  "end": 48.483
+ },
+ {
+  "word": "gema",
+  "start": 48.53,
+  "end": 48.75
+ },
+ {
+  "word": "yang",
+  "start": 48.797,
+  "end": 48.913
+ },
+ {
+  "word": "balik",
+  "start": 48.959,
+  "end": 49.343
+ },
+ {
+  "word": "Inggris",
+  "start": 49.691,
+  "end": 50.051
+ },
+ {
+  "word": "nggak",
+  "start": 50.109,
+  "end": 50.271
+ },
+ {
+  "word": "mau",
+  "start": 50.318,
+  "end": 50.434
+ },
+ {
+  "word": "musuh",
+  "start": 50.469,
+  "end": 50.747
+ },
+ {
+  "word": "tahu",
+  "start": 50.771,
+  "end": 50.98
+ },
+ {
+  "word": "soal",
+  "start": 51.084,
+  "end": 51.293
+ },
+ {
+  "word": "radar",
+  "start": 51.351,
+  "end": 51.572
+ },
+ {
+  "word": "itu",
+  "start": 51.63,
+  "end": 52.059
+ },
+ {
+  "word": "jadi",
+  "start": 52.245,
+  "end": 52.57
+ },
+ {
+  "word": "wortel",
+  "start": 52.791,
+  "end": 53.209
+ },
+ {
+  "word": "dijadikan",
+  "start": 53.325,
+  "end": 53.766
+ },
+ {
+  "word": "kedok",
+  "start": 53.824,
+  "end": 54.161
+ },
+ {
+  "word": "Wortel",
+  "start": 54.509,
+  "end": 54.811
+ },
+ {
+  "word": "memang",
+  "start": 54.857,
+  "end": 55.09
+ },
+ {
+  "word": "baik",
+  "start": 55.124,
+  "end": 55.287
+ },
+ {
+  "word": "untuk",
+  "start": 55.345,
+  "end": 55.519
+ },
+ {
+  "word": "mata",
+  "start": 55.554,
+  "end": 55.983
+ },
+ {
+  "word": "tapi",
+  "start": 56.123,
+  "end": 56.53
+ },
+ {
+  "word": "cuma",
+  "start": 56.669,
+  "end": 57.087
+ },
+ {
+  "word": "kalau",
+  "start": 57.191,
+  "end": 57.435
+ },
+ {
+  "word": "kamu",
+  "start": 57.482,
+  "end": 57.749
+ },
+ {
+  "word": "kekurangan",
+  "start": 57.795,
+  "end": 58.271
+ },
+ {
+  "word": "vitamin",
+  "start": 58.317,
+  "end": 58.677
+ },
+ {
+  "word": "A",
+  "start": 58.735,
+  "end": 58.979
+ },
+ {
+  "word": "Delapan",
+  "start": 59.386,
+  "end": 59.85
+ },
+ {
+  "word": "puluh",
+  "start": 59.92,
+  "end": 60.117
+ },
+ {
+  "word": "tahun",
+  "start": 60.152,
+  "end": 60.361
+ },
+ {
+  "word": "kemudian",
+  "start": 60.407,
+  "end": 60.965
+ },
+ {
+  "word": "mitosnya",
+  "start": 61.127,
+  "end": 61.545
+ },
+ {
+  "word": "masih",
+  "start": 61.58,
+  "end": 61.789
+ },
+ {
+  "word": "hidup",
+  "start": 61.812,
+  "end": 62.184
+ },
+ {
+  "word": "Mungkin",
+  "start": 62.532,
+  "end": 62.892
+ },
+ {
+  "word": "orang",
+  "start": 62.973,
+  "end": 63.194
+ },
+ {
+  "word": "tuamu",
+  "start": 63.228,
+  "end": 63.507
+ },
+ {
+  "word": "juga",
+  "start": 63.554,
+  "end": 63.716
+ },
+ {
+  "word": "pernah",
+  "start": 63.763,
+  "end": 63.983
+ },
+ {
+  "word": "bilang",
+  "start": 64.006,
+  "end": 64.25
+ },
+ {
+  "word": "begitu",
+  "start": 64.285,
+  "end": 65.016
+ }
+]

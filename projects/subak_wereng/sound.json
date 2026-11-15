@@ -1,0 +1,22 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "playful curious cartoon music with light Balinese gamelan metallophone and bamboo flute, pizzicato strings, soft kendang hand drum, quirky mystery, 104 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "cartoon whoosh", "at": 0.0, "dur": 0.6, "gain_db": -10},
+    {"text": "swarm of small insects buzzing", "at_word": "hama", "dur": 1.2, "gain_db": -11, "offset": -0.1},
+    {"text": "single soft temple bell ring", "at_word": "pura", "nth": 2, "dur": 1.5, "gain_db": -12},
+    {"text": "feet stepping in muddy rice paddy water", "at_word": "menanam", "dur": 1.2, "gain_db": -12},
+    {"text": "magical sparkle chime", "at_word": "datang", "dur": 1.0, "gain_db": -12},
+    {"text": "group of men laughing", "at_word": "Tanam", "dur": 1.5, "gain_db": -13},
+    {"local": "coins", "at_word": "bagus", "gain_db": -12},
+    {"text": "loud swarm of insects buzzing approaching", "at_word": "hama", "nth": 2, "dur": 2.5, "gain_db": -9, "offset": -0.2},
+    {"text": "hand pump sprayer spraying liquid hiss", "at_word": "Disemprot", "dur": 1.2, "gain_db": -11},
+    {"text": "vinyl record scratch", "at_word": "Tunggu", "dur": 0.6, "gain_db": -11, "offset": -0.15},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "water flowing and splashing into rice field", "at_word": "digenangi", "dur": 1.8, "gain_db": -12},
+    {"text": "cartoon stomach growling", "at_word": "kelaparan", "dur": 1.0, "gain_db": -11},
+    {"text": "plates and cutlery clinking at a buffet", "at_word": "prasmanan", "dur": 1.5, "gain_db": -13},
+    {"local": "chime", "at_word": "pulih", "gain_db": -12},
+    {"text": "single soft temple bell ring", "at_word": "pendeta", "dur": 1.5, "gain_db": -12}
+  ]
+}

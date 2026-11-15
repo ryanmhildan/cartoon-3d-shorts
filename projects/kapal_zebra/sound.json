@@ -1,0 +1,21 @@
+{
+  "tail": 0.7,
+  "music": {"prompt": "playful cartoon naval mystery, plucked pizzicato strings, low tuba, soft snare march, sonar-like marimba pings, quirky and curious building to a bright clever reveal, 104 bpm, instrumental", "gain_db": -10},
+  "sfx": [
+    {"text": "big paint brush swooshes, wet paint slaps on metal", "at": 0.0, "dur": 2.0, "gain_db": -12},
+    {"text": "submarine sonar ping underwater, deep and calm", "at_word": "kapal", "nth": 2, "dur": 2.0, "gain_db": -13},
+    {"text": "metal periscope sliding up with a hydraulic hiss and click", "at_word": "periskop", "dur": 1.5, "gain_db": -12, "offset": -0.3},
+    {"text": "distant steam ship horn across the open sea", "at_word": "kejauhan", "dur": 2.5, "gain_db": -14},
+    {"text": "cartoon electric zap buzz", "at_word": "kesetrum", "dur": 0.8, "gain_db": -12},
+    {"text": "sailors laughing on a ship deck, comedic", "at_word": "ragu", "dur": 2.0, "gain_db": -13},
+    {"local": "boing", "at_word": "badut", "gain_db": -14},
+    {"text": "mechanical crosshair targeting clicks, small dial ticks", "at_word": "bidik", "dur": 1.2, "gain_db": -12},
+    {"text": "comedic whoosh left then right", "at_word": "kiri", "dur": 1.2, "gain_db": -13},
+    {"text": "vinyl record scratch", "at_word": "Tunggu", "dur": 0.6, "gain_db": -11, "offset": -0.15},
+    {"local": "ding", "at_word": "Ternyata", "gain_db": -11},
+    {"text": "torpedo launching underwater, bubbly whoosh, slow motor hum", "at_word": "torpedo", "dur": 2.0, "gain_db": -12},
+    {"text": "soft ball thrown and caught in a leather glove, thump", "at_word": "bola", "dur": 1.2, "gain_db": -12},
+    {"text": "underwater torpedo whooshing past and fading away, bubbles", "at_word": "lewat", "nth": 2, "dur": 2.0, "gain_db": -12, "offset": -0.3},
+    {"text": "short comedic sneaky tiptoe pizzicato sting", "at_word": "berbohong", "dur": 1.2, "gain_db": -13}
+  ]
+}
