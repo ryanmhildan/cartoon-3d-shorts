@@ -66,6 +66,19 @@ Tulis `projects/<slug>/shots.md` dulu, sebelum kode:
    ```
    `CompId` = slug dalam CamelCase tanpa underscore (mis. `JembatanBerbaris`). Pastikan `<NAME>_FRAMES` = `length.json.frames`.
 
+## 5b. Look alternatif "dunia hidup" (hanya kalau user memintanya)
+Tokoh tetap kartun 2D yang sama, tapi dunianya PBR realistis: langit foto HDRI, tekstur foto, bayangan lembut, AO, kabut jarak, padi/rumput bergoyang angin. Tidak ada garis tinta di dunia. Contoh lengkap: `src/videos/looktest/LookTest.tsx` (komposisi `LookTest`), stills pembanding di `out/looktest/`.
+- Kit bersama di `src/common/hidup/` (jangan disalin per video, impor saja):
+  - `Stage.tsx`: `<HidupScene make={build} />`. `build(H)` mengembalikan `{ root, update(f, cam) => Shot, look? }`. Stage mengatur langit, matahari + bayangan (kotak 90 m yang ikut kamera), kabut, dan post (N8AO, bloom, AgX, saturasi, vignette). Preset `DAY`; ubah lewat `look` (arah `sun`, `fogDensity`, `sat`...).
+  - `kit.ts`: `pbr(H, tekstur, { size })` + `worldUV(geo)` (tekstur ukuran asli dalam meter), `M()`, `scatter()` (pohon utuh), `scatterPick()` (rumput/pakis/semak per rumpun), `instanced()`, `addSway()`, `rng()`.
+  - `plants.ts`: `paddy()` (sawah + pematang + padi bergoyang), `verge()` (rumput liar pinggir jalan), `coconutPalm()`/`palmRow()` (kelapa prosedural), `bananaPlant()`.
+  - `house.ts`: `kampungHouse()` (tembok plester, genteng tanah liat, teras bertiang, pintu/jendela kayu).
+  - `card.ts`: `Card` = tokoh dari `toon.ts` (`bodyFront`/`bodySide`) sebagai kartu yang menghadap kamera, dengan bayangan matahari asli + bayangan kontak.
+- Aset di `public/hidup/` (Poly Haven, CC0): `sky_4k.hdr`, `tex/<id>_diff|nor|rough.jpg` (2k), `models/<id>/<id>.glb` + `textures/<id>_alpha_1k.jpg`. Daftarnya di `TEX` dan `MODELS` (kit.ts). Aset baru: API `https://api.polyhaven.com/files/<id>`. Model harus dikemas jadi **.glb** (gltf + .bin terpisah gagal dimuat di browser render), dan alpha daun dipasang dari file alpha terpisah.
+- Poly Haven tidak punya kelapa, pisang, bambu, rumah Indonesia, atau kendaraan: buat secara prosedural seperti `plants.ts`/`house.ts`.
+- Ukuran: dunia sejauh mata memandang perlu ribuan instance. Pohon Poly Haven berat (island_tree ≈ 1,3 juta verteks), jadi pakai beberapa saja di dekat kamera dan kelapa prosedural untuk barisan jauh. Still ≈ 20 dtk (skala 0.5), render ≈ 0,8 dtk/frame.
+- Hindari: batang pohon tepat di depan lensa (cek garis pandang shot), gunung tanpa kabut (pakai warna kabut, `fog: false`), dan `Object.assign` ke `position` mesh (read-only).
+
 ## 6. Cek tampilan (ulang sampai bersih, biasanya 3–5 putaran)
 ```
 node scripts/stills.mjs <CompId> out/<slug>/s_ <frame tengah tiap shot, dipisah koma> 0.5
@@ -90,7 +103,7 @@ QA setelah selesai: durasi = `length.json.duration` (±0,1 dtk); ambil frame di 
 
 ## 8. Serahkan
 - Kirim videonya ke user dengan SendUserFile.
-- Tulis `out/<slug>/upload.txt` (bahasa Indonesia): 3 ide judul (≤45 karakter, gaya "Kenapa…", "…yang…", "Eksperimen…"), deskripsi 2–3 kalimat yang tidak membocorkan twist, sumber, 5 hashtag (#shorts #faktaunik #sains + 2 sesuai topik).
+- Tulis `out/<slug>/upload.txt` (bahasa Indonesia): 3 ide judul (≤45 karakter, idealnya 4–7 kata, gaya "Kenapa…", "…yang…", "Eksperimen…"; jangan bocorkan jawaban/kata kunci twist, tanpa tahun dan nama asing; lihat aturan judul di `generate-naskah/SKILL.md`), deskripsi 2–3 kalimat yang tidak membocorkan twist, sumber, 5 hashtag (#shorts #faktaunik #sains + 2 sesuai topik).
 - Tambahkan slug + judul ke `topics/used.txt`.
 - Laporkan singkat: lokasi file, durasi, jumlah shot, 3 judul, dan bahwa user bisa minta perubahan ("tokoh utamanya pakai topi merah", "musiknya lebih misterius", "hook-nya diganti"). Setelah perubahan: ulangi dari langkah yang terdampak (naskah → suara → sound → stills → render).
 
